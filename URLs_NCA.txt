@@ -1,0 +1,187 @@
+date,user,url
+26/04/21, Astitv,https://meet.google.com/cub-rktd-kuj
+26/04/21, Bodybuilder,https://arxiv.org/pdf/2102.12627.pdf
+26/04/21, Bodybuilder,http://erikdemaine.org/supercollaboration/
+26/04/21, Bodybuilder,https://www.dropbox.com/scl/fi/m204d8wv8nqk3mm0iirzm/Untitled-4.paper?dl=0&rlkey=6feshzk29ccim7cvepdjd3850
+26/04/21, Astitv,https://towardsdatascience.com/cellular-automaton-and-deep-learning-2bf7c57139b3
+27/04/21, Pratham CSE MUJ,https://content.wolfram.com/uploads/sites/34/2020/07/computation-theory-cellular-automata.pdf
+27/04/21, Pratham CSE MUJ,https://www.stephenwolfram.com/publications/cellular-automata-complexity/
+27/04/21, Astitv,https://youtube.com/user/ZnahNah
+27/04/21, Astitv,https://youtu.be/8EN_8p9Toyc
+27/04/21, Pratham CSE MUJ,https://youtu.be/DKGodqDs9sA
+27/04/21, Pratham CSE MUJ,https://youtube.com/playlist?list=PLRqwX-V7Uu6YrWXvEQFOGbCt6cX83Xunm
+27/04/21, Astitv,https://youtu.be/TvZI6Xc0J1Y
+27/04/21, Astitv,https://arxiv.org/abs/2006.12155
+27/04/21, Pratham CSE MUJ,https://www.researchgate.net/publication/282249343_Cellular_Automata_And_Its_Applications_In_Modeling_And_Simulating_The_Evolution_Of_Diseases
+27/04/21, Astitv,https://github.com/edemaine/coauthor/
+27/04/21, Astitv,https://www.researchgate.net/publication/335632631_Cellular_automata_as_convolutional_neural_networks
+27/04/21, Astitv,https://towardsdatascience.com/neural-cellular-automata-for-art-recreation-6d9fb61afb37
+27/04/21, Astitv,https://www.crosslabs.org/blog/regenerating-soft-robots-through-neural-cellular-automata
+27/04/21, Astitv,http://www.facweb.iitkgp.ac.in/
+27/04/21, Astitv,https://users.math.yale.edu/public_html/People/frame/Fractals/CA/welcome.html
+27/04/21, Bodybuilder,http://erikdemaine.org/supercollaboration/
+27/04/21, Astitv,https://ia800501.us.archive.org/11/items/RBB5405/RBB5405.pdf
+27/04/21, Pratham CSE MUJ,https://www.intechopen.com/books/emerging-applications-of-cellular-automata/cellular-learning-automata-and-its-applications
+28/04/21, Pratham CSE MUJ,https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/growing_ca.ipynb
+28/04/21, Bodybuilder,https://github.com/Slackermanz/VulkanAutomata
+29/04/21, Astitv,https://link.springer.com/chapter/10.1007/978-3-642-19167-1_2
+29/04/21, Astitv,https://books.google.co.in/books?hl=en&lr=&id=W0frCAAAQBAJ&oi=fnd&pg=PP7&dq=neural+cellular+automata+papers&ots=yeYOlErKI6&sig=OzjzDiKIIfMnUksPq9YV6d1SVG8
+29/04/21, Astitv,https://arxiv.org/pdf/2010.04949.pdf
+29/04/21, Astitv,https://arxiv.org/pdf/2006.12155.pdf
+29/04/21, Bodybuilder,https://ase.tufts.edu/biology/labs/levin/
+29/04/21, Bodybuilder,https://twitter.com/zzznah?s=21
+29/04/21, Bodybuilder,http://kvfrans.com/stampca-conditional-neural-cellular-automata/amp/
+29/04/21, Bodybuilder,https://uwe-repository.worktribe.com/output/980579
+29/04/21, Bodybuilder,https://arstechnica.com/science/2020/12/how-the-humble-slime-mold-helped-physicists-map-the-cosmic-web/
+29/04/21, Bodybuilder,https://arstechnica.com/science/2020/12/how-the-humble-slime-mold-helped-physicists-map-the-cosmic-web/
+29/04/21, Bodybuilder,https://arxiv.org/abs/2103.08737
+29/04/21, Bodybuilder,https://t.co/EgV6OdnDKZ
+29/04/21, Bodybuilder,https://github.com/Mayukhdeb/differentiable-morphogenesis
+29/04/21, Astitv,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6330087/
+29/04/21, Bodybuilder,https://twitter.com/zzznah/status/1354876616913117186?s=21
+29/04/21, Astitv,https://www.sciencedaily.com/news/computers_math/computer_science/
+29/04/21, Bodybuilder,https://www.dropbox.com/scl/fi/m204d8wv8nqk3mm0iirzm/Untitled-4.paper?dl=0&rlkey=6feshzk29ccim7cvepdjd3850
+30/04/21, Bodybuilder,https://www.crosslabs.org
+30/04/21, Bodybuilder,https://www.youtube.com/watch?v=XVmzGW293bI
+01/05/21, Pratham CSE MUJ,https://www.youtube.com/watch?v=BcLvpcEN7wc
+01/05/21, Bodybuilder,https://twitter.com/bathshebasculpt/status/1380407482766491648?s=21
+01/05/21, Astitv,https://beta.cent.co/rhyolight/+v2qijy
+01/05/21, Pratham CSE MUJ,https://github.com/distillpub/post--growing-ca
+01/05/21, Astitv,https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/growing_ca.ipynb
+01/05/21, Astitv,https://github.com/makingthematrix/ca_art
+01/05/21, Pratham CSE MUJ,http://www.art.net/
+01/05/21, Bodybuilder,https://github.com/distillpub/post--growing-ca/blob/master/public/ca.js
+01/05/21, Bodybuilder,https://distill.pub/guide/
+01/05/21, Bodybuilder,https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/growing_ca.ipynb
+01/05/21, Pratham CSE MUJ,https://github.com/bbusschots/bartificer_ca_js
+01/05/21, Astitv,https://progur.com/2018/10/creating-generative-art-cellular.html
+01/05/21, Bodybuilder,https://cloudflare-ipfs.com/ipfs/QmZTLjYR7Vcr8mVKjYCtpkroBvn91nT1Q1dgAeW16tfve9/
+01/05/21, Bodybuilder,https://cloudflare-ipfs.com/ipfs/QmZTLjYR7Vcr8mVKjYCtpkroBvn91nT1Q1dgAeW16tfve9/
+01/05/21, Astitv,https://www.generativehut.com/post/using-processing-for-music-visualization
+01/05/21, Astitv,https://github.com/BeyondNFT/sandbox
+01/05/21, Bodybuilder,https://github.com/neelts/svg-app
+01/05/21, Bodybuilder,https://tarwin.medium.com/hit-et-nunc-advanced-svg-nfts-a6040262f4d5
+01/05/21, Astitv,https://medium.com/@shvembldr/how-to-make-your-first-generative-art-with-p5-js-3f10afc07de2
+01/05/21, Bodybuilder,https://github.com/neelts/svg-app
+01/05/21, Bodybuilder,https://meet.google.com/xct-hmkw-cqn
+01/05/21, Bodybuilder,https://docs.google.com/spreadsheets/d/1RA5Qicv1f4O9BJywIketrq2PqOqB0KX7cx0qUtCNwHg/edit
+01/05/21, Astitv,https://colab.research.google.com/github/google-research/self-organising-systems/blob/master/notebooks/growing_ca.ipynb
+01/05/21, Bodybuilder,https://colab.research.google.com/drive/1KFhAwC1Rzl8b5KY7G41qCQwKVTZKrtz6?usp=sharing
+01/05/21, Bodybuilder,https://varun.ca/noise/
+01/05/21, Bodybuilder,https://meet.google.com/mqi-uwuc-dtg
+01/05/21, Bodybuilder,https://tarwin.medium.com/hit-et-nunc-advanced-svg-nfts-a6040262f4d5
+01/05/21, Bodybuilder,https://colab.research.google.com/drive/1KFhAwC1Rzl8b5KY7G41qCQwKVTZKrtz6?usp=sharing
+01/05/21, Bodybuilder,https://colab.research.google.com/drive/1KFhAwC1Rzl8b5KY7G41qCQwKVTZKrtz6?usp=sharing
+01/05/21, Bodybuilder,https://github.com/neelts/svg-app
+02/05/21, Astitv,https://github.com/distillpub/post--growing-ca/blob/master/public/demo.js
+02/05/21, Bodybuilder,https://tarwin.medium.com/hit-et-nunc-advanced-svg-nfts-a6040262f4d5
+03/05/21, Pratham CSE MUJ,https://rarible.com/
+03/05/21, Pratham CSE MUJ,https://pinata.cloud/
+04/05/21, Bodybuilder,https://doug2k1.github.io/javascript-camera/
+05/05/21, Pratham CSE MUJ,https://github.com/bollu/cellularAutomata
+07/05/21, Astitv,https://ncase.me/sim
+07/05/21, Bodybuilder,https://ncase.me/sim/?lz=N4IgtgpgLghiBcoAmEDOBjATgSwA5WwHsA7BEQXg3AMPYAIB1CAG3UMmqkOoFExCArbagGVsYAK4MY7TAEJqVADrFFACQiYIAclTVULCNQgAPGGFwM0bDqlwxMAa2oBPQqMzURMAObZikosXhqAApmXEcAWhtUKH0GHzttACNGQgB3AEpFRXJAUl3qADFCdWiC7GLgqAALbG0SfWdRDXUdCAgfT2lM4iDABMJqAGEAGQBJfoBpahI2Sv1PHCRLaiwISX0YagAzMogu7MAAna5cbBQwbHRURUqoKFxUeAB6e+J0GFQIADpIe9QRe4B+VAAXh+6DsWWIgB4NwAc+wMSKkYI4tNQAOImfSEDbUQbYDYQS7XW4PJ4vN6fCDfX4AwHMYjwxzg8iAFl3qAAhcIALQGM1OLwYQiOmBgDAuxCuNzuj2erw+Xx+YH+QMSAC8GYBOHaE6BmDDixE8SMEEDmhr8UwAsoQUAx8eKiVLSbLKUCMFqdZ5wYA+DcAUbvUAAK6iQkiK4T9EEc1HNluthMlJJl5LlCsBuHU9KUkMAa-u+zCEdAQJCuIUMMPIiDENSrBYslaatBRiXE6VkinyqnJGCahmABD3qABtFkSYgOYRgAC6FQ4YBgdnqLjcaWIXTF0Yb9vjjsBiQHYLTAE0XEsYMQDEhsFBpvoYoYzz5qABBAByO8mmKqaAvRigiUIhjQABp3M8DCiCeurTDUkxlu8XKHp4F4zNQmDiBYABkBg8Pw1DJAwaSLJO07UGWqQ6CIqBQfkPiFo4-4NAeR6CLeABqnDUIeCyCMot4AErMQ0bhyu84LKDAABu+gbKIxCyBCgCR+yAv4gEggqpAgABM8kbLcCAAMwAAzyWYCIIFAiEQAAvvJ0SrKgCA9qAxwIHpIBnCQZBySAviQGQECmFAYbWIQUBue2BAkNZ8C2SAvm4BAZA4gA+oKxBICwbnJoQiQwIk2BxL5DnvDpOlafJwX+GFEVRTF8AgJ4hBxewcWWTEbmNRAwwACIIAAjMV6AhcQZUjqZg0jvJKAYDg+D+GQyLZqk2jGa0pEgOZdlIF18nOaQVUQoATPtuR5lWReoMU9X1ZWgBVsUbAlrEpfp2YZVlOWOHlBU6d1IAlaFNkXY40VkDVdW1S1zWwDE7WqadpU2cNK2RX9h3xWW2CeJUX6YM1KNbSAAB8gL7aIYDrSALUQ-Aamfb10Phb9-1VYD9UgxZYOtR15NQ994WwyNCloFgeB9WQ-SSDWtRHlszQ4tQ1RnokYZxKjUDEO0-5FO4mLrMjqPo0iUwSx8y2-qtkNOTSZC5PtaJkPrQVU5zEWk2zjmXfTtWMyzttnTDQ2jXzE2C1VLKuP1LF0u8y086kRQMGtiAgKIuABk1VVyuIsBli41nyVraNFJUhAWmQPBFCdIBpbgRRezTJMs2Tjk2JgUBhZ1BVw47xMN03Dlt7XbMU53YU6T7JPYEqlWgKkxxVAgAAsjkzCjVzaVppmr0AA
+07/05/21, Astitv,https://inis.iaea.org/collection/NCLCollectionStore/_Public/20/013/20013339.pdf
+07/05/21, Astitv,https://www.emojicode.org/
+08/05/21, Bodybuilder,https://distill.pub/selforg/2021/adversarial/
+08/05/21, Bodybuilder,https://generative-unfoldings.mit.edu/works/hexells/view.html
+08/05/21, Astitv,https://distill.pub/selforg/2021/textures/
+08/05/21, Bodybuilder,https://github.com/znah/hexells//
+08/05/21, Bodybuilder,https://asdfghjkkjhas.tiiny.site
+08/05/21, Astitv,https://hexells.surge.sh
+08/05/21, Bodybuilder,https://w3techs.com/sites/info/znah.net
+08/05/21, Bodybuilder,http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd
+08/05/21, Astitv,https://docs.ipfs.io/how-to/websites-on-ipfs/multipage-website/
+08/05/21, Pratham CSE MUJ,https://www.youtube.com/watch?v=CFD_8oDxw1k&list=LL&index=10
+08/05/21, Bodybuilder,https://github.com/hicetnunc2000/hicetnunc/wiki/Interactive-OBJKTs
+08/05/21, Bodybuilder,https://github.com/hicetnunc2000/hicetnunc/tree/develop/templates/html-template
+08/05/21, Bodybuilder,https://github.com/hicetnunc2000/hicetnunc/tree/main/templates/html-template
+08/05/21, Astitv,https://p5js.org/examples/simulate-brownian-motion.html
+12/05/21, Bodybuilder,https://cloudflare-ipfs.com/ipfs/QmWMZAQ2thNsPskV6tr7KzVYMb4qJ4oFURNEzhdUJezKNq/
+12/05/21, Astitv,https://cloudflare-ipfs.com/ipfs/QmWMZAQ2thNsPskV6tr7KzVYMb4qJ4oFURNEzhdUJezKNq/main.js?a475656b049a62321ab1
+12/05/21, Astitv,https://blog.ipfs.io/2020-10-30-dht-hardening/
+12/05/21, Astitv,https://safenetwork.tech/
+12/05/21, Astitv,https://www.youtube.com/watch?v=8dh9WUQODMQ
+17/05/21, Bodybuilder,https://github.com/mattdesl/canvas-sketch
+17/05/21, Astitv,http://weavesilk.com/
+17/05/21, Astitv,https://haxiomic.github.io/GPU-Fluid-Experiments/html5/
+17/05/21, Astitv,https://williamngan.github.io/pt/demo/index.html?name=color.LABtoRGB
+17/05/21, Astitv,http://linify.me/
+17/05/21, Bodybuilder,https://ptsjs.org
+17/05/21, Bodybuilder,http://williamngan.github.io/kubist/
+17/05/21, Bodybuilder,https://www.complexity-explorables.org/e
+17/05/21, Bodybuilder,https://github.com/mattdesl/workshop-p5-intro
+17/05/21, Bodybuilder,https://reindre.org/post/648643236307648512
+17/05/21, Astitv,https://benjamincongdon.me/blog/2019/03/07/Generative-Doodling/progress.gif
+17/05/21, Astitv,https://inconvergent.net/
+18/05/21, Bodybuilder,http://www.thepaintingfool.com/papers/index.html
+18/05/21, Bodybuilder,http://ccg.doc.gold.ac.uk/simoncolton/
+18/05/21, Astitv,http://usefuljs.net/fractals/
+18/05/21, Astitv,https://sciencevsmagic.net/fractal/
+18/05/21, Astitv,https://zimjs.com/genpen/
+19/05/21, Pratham CSE MUJ,https://www.generativeart.com
+19/05/21, Pratham CSE MUJ,https://aiartists.org/generative-art-design
+19/05/21, Bodybuilder,https://katharinabrunner.de/software-portfolio/
+19/05/21, Bodybuilder,https://zimjs.com/art.html
+19/05/21, Bodybuilder,https://left.gallery/work/Mutant-Garden-Autobreeder
+19/05/21, Pratham CSE MUJ,https://artsandculture.google.com
+19/05/21, Pratham CSE MUJ,https://veefriends.com/collectibles/aspiring-alpaca
+22/05/21, Bodybuilder,https://twitter.com/mathmakesart/status/1385369645205569540?s=21
+27/05/21, Bodybuilder,https://www.youtube.com/c/Slackermanz
+27/05/21, Bodybuilder,https://www.youtube.com/channel/UCVKd54HEE0IkWWi4fbbs8_Q
+27/05/21, Bodybuilder,https://twitter.com/ClementPirelli
+27/05/21, Bodybuilder,https://direct.mit.edu/artl/article/25/2/207/2924/Evolutionary-Innovations-and-Where-to-Find-Theme
+27/05/21, Bodybuilder,https://direct.mit.edu/artl/article/25/2/207/2924/Evolutionary-Innovations-and-Where-to-Find-Them
+27/05/21, Bodybuilder,https://www.sciencedirect.com/science/article/pii/S136759312100051X
+27/05/21, Astitv,https://distill.pub/2020/selforg/
+27/05/21, Astitv,https://github.com/distillpub/post--selforg-textures
+27/05/21, Astitv,https://github.com/distillpub/post--selforg-adversarial
+27/05/21, Astitv,https://github.com/distillpub/post--selforg-mnist
+27/05/21, Astitv,https://github.com/distillpub/post--growing-ca
+27/05/21, Bodybuilder,https://github.com/distillpub/post--selforg-textures
+27/05/21, Astitv,https://www.youtube.com/watch?v=8dh9WUQODMQ
+27/05/21, Bodybuilder,https://github.com/carricktel?tab=repositories
+27/05/21, Bodybuilder,https://en.wikipedia.org/wiki/Quantum_dot_cellular_automaton
+27/05/21, Bodybuilder,https://github.com/carricktel?tab=repositories
+27/05/21, Astitv,https://www.slideshare.net/swatichauhan133/training-of-cellular-automata-for-image-processing
+27/05/21, Bodybuilder,https://www.dropbox.com/scl/fi/m204d8wv8nqk3mm0iirzm/Untitled-4.paper?dl=0&rlkey=6feshzk29ccim7cvepdjd3850
+27/05/21, Astitv,https://arxiv.org/pdf/0711.2478.pdf
+27/05/21, Astitv,https://www.youtube.com/watch?v=7GVsXc8MPqU
+27/05/21, Astitv,https://arxiv.org/abs/1812.05433
+27/05/21, Astitv,https://chakazul.github.io/lenia.html
+27/05/21, Astitv,https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.133.9980&rep=rep1&type=pdf
+27/05/21, Astitv,https://openreview.net/forum?id=rABUmU3ulQh
+28/05/21, Bodybuilder,https://www.youtube.com/watch?v=XVmzGW293bI
+28/05/21, Astitv,https://www.dropbox.com/scl/fi/m204d8wv8nqk3mm0iirzm/Neural-Cellular-Automata.paper?dl=0&rlkey=6feshzk29ccim7cvepdjd3850
+28/05/21, Bodybuilder,https://en.wikipedia.org/wiki/Reversible_cellular_automaton
+28/05/21, Astitv,https://arxiv.org/pdf/1602.01510.pdf
+28/05/21, Astitv,https://www.researchgate.net/publication/331684856_A_Hybrid_Reinforcement_Learning_and_Cellular_Automata_Model_for_Crowd_Simulation_on_the_GPU
+22/06/21, Bodybuilder,https://www.youtube.com/watch?v=gBVVBW-HDz4
+10/07/21, Bodybuilder,https://arxiv.org/abs/2106.15240
+10/07/21, Astitv,https://arxiv.org/abs/2103.08737
+10/07/21, Bodybuilder,https://worldmodels.github.io
+10/07/21, Astitv,https://arxiv.org/abs/2101.09721
+10/07/21, Bodybuilder,https://sites.google.com/view/kinn2021/CFP?authuser=0
+11/07/21, Bodybuilder,https://github.com/hardmaru/WorldModelsExperiments
+11/07/21, Bodybuilder,https://us05web.zoom.us/j/6098740990?pwd=VThveHNjMi9Ra3V2cE9qVHBSVElvQT09
+11/07/21, Bodybuilder,https://www.youtube.com/watch?v=udPY5rQVoW0
+11/07/21, Bodybuilder,https://deepmind.com/research/publications/episodic-curiosity-through-reachability
+11/07/21, Astitv,https://arxiv.org/abs/2008.10399
+11/07/21, Bodybuilder,https://ojs.aaai.org//index.php/AIIDE/article/view/7485
+11/07/21, Astitv,https://arxiv.org/abs/2102.12463
+11/07/21, Bodybuilder,https://github.com/miguelgondu/BlendCVAE/blob/master/generate_cvae.ipynb
+11/07/21, Bodybuilder,https://www.youtube.com/watch?v=NObqDuPuk7Q
+11/07/21, Bodybuilder,https://github.com/TheHedgeify/mario-gan
+11/07/21, Bodybuilder,https://arxiv.org/pdf/1805.00728.pdf
+11/07/21, Bodybuilder,https://github.com/TheHedgeify/mario-gan
+11/07/21, Bodybuilder,https://www.miguelgondu.com/assets/massive_latent_space_2d.png
+11/07/21, Bodybuilder,https://ieee-cog.org/2020/papers/paper_288.pdf
+11/07/21, Bodybuilder,https://github.com/icaros-usc/MarioGAN-LSI
+11/07/21, Bodybuilder,https://github.com/hardmaru/WorldModelsExperiments
+11/07/21, Bodybuilder,https://github.com/EXYNOS-999/gameAI/invitations
+11/07/21, Bodybuilder,http://ai.berkeley.edu/project_overview.html
+11/07/21, Bodybuilder,https://evocraft.life/
+11/07/21, Bodybuilder,https://evocraft.life
+11/07/21, Bodybuilder,https://www.tim-taylor.com/selfrepbook/
+11/07/21, Bodybuilder,https://deepmind.com/research/publications/episodic-curiosity-through-reachability
+12/07/21, Bodybuilder,https://github.com/3dlg-hcvc/plan2scene
