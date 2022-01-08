@@ -1,0 +1,1230 @@
+23/03/21, 3:54 am - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+23/03/21, 3:54 am - Bodybuilder created group "CS Research Problems"
+23/03/21, 3:54 am - Bodybuilder added you
+23/03/21, 9:48 am - Bodybuilder: https://luddy.indiana.edu/research/research-areas/theoretical-computer-science.html
+24/03/21, 8:34 pm - Bodybuilder: https://twitter.com/hardmaru/status/1374586088073752582?s=21
+24/03/21, 8:36 pm - Astitv: https://github.com/eselkin/awesome-computational-neuroscience#readme
+24/03/21, 8:37 pm - Bodybuilder: Aree thanks!!!
+24/03/21, 8:40 pm - Astitv: Let's do something in this I fucking love neuroscience
+24/03/21, 8:40 pm - Astitv: Check out Moran Cerf's work that guy is insane
+24/03/21, 8:41 pm - Astitv: https://www.morancerf.com/
+24/03/21, 8:43 pm - Bodybuilder: I’m fucking in
+24/03/21, 10:49 pm - Astitv: https://www.frontiersin.org/journals/computational-neuroscience
+24/03/21, 11:04 pm - Bodybuilder: We’d need an advisor to do anything in comp neuro
+24/03/21, 11:06 pm - Astitv: I know
+24/03/21, 11:06 pm - Astitv: I was looking into NYU's comp neur programs
+24/03/21, 11:06 pm - Astitv: They got some good people
+24/03/21, 11:10 pm - Bodybuilder: Yeah ik NYU has a good DEPT.
+24/03/21, 11:10 pm - Bodybuilder: Can also look @ EU Universities. They are pioneers in this field.
+24/03/21, 11:15 pm - Astitv: They are OP
+24/03/21, 11:15 pm - Astitv: Especially french guys
+24/03/21, 11:17 pm - Bodybuilder: Also German and the Netherlands Unis
+24/03/21, 11:17 pm - Astitv: Dutch peeps are OP at literally everything idkw
+24/03/21, 11:18 pm - Bodybuilder: 1. Need a sub domain in comp Neuro for research 
+2. Any other people/outside collaborators who are interested 
+3. Research Proposal 
+4. Identify and email potential advisors.
+24/03/21, 11:19 pm - Astitv: Subdomain isn't a priority rn but 2 and 3 are very imp
+24/03/21, 11:20 pm - Bodybuilder: Yeah and simultaneously do 4
+24/03/21, 11:20 pm - Astitv: As we look into the field well eventually find ideas and problems worth solving
+24/03/21, 11:20 pm - Astitv: We'll*
+24/03/21, 11:21 pm - Astitv: I'll look into 1 and 3 u do 2 and 4?
+24/03/21, 11:21 pm - Bodybuilder: 4 is dependent on 1
+24/03/21, 11:22 pm - Bodybuilder: 2 idk who?
+24/03/21, 11:49 pm - Astitv: Let's go serially ig
+24/03/21, 11:49 pm - Astitv: Let's look into as much shit as we can and then we'll see where to go from there
+24/03/21, 11:51 pm - Bodybuilder: Yeah timeline wise I think we should send some emails out with proposals by this weekend.
+24/03/21, 11:52 pm - Astitv: Yeah I'll try to gather as much info as i can and come up with some ideas
+24/03/21, 11:54 pm - Bodybuilder: Cool I’ll start a shared doc
+24/03/21, 11:56 pm - Astitv: Great
+24/03/21, 11:57 pm - Astitv: Let's start on it right away
+24/03/21, 11:58 pm - Bodybuilder: Yeah
+25/03/21, 12:35 am - Bodybuilder: https://www.dropbox.com/scl/fi/b7b4wa24ml3wwppch7qzy/Computat.paper?dl=0&rlkey=v2ici33r6buryuxaan4ywaric
+25/03/21, 12:37 am - Astitv: isko description me dal de
+25/03/21, 12:38 am - You're now an admin
+25/03/21, 12:39 am - You changed the group description
+25/03/21, 1:20 am - Astitv: https://cbmm.mit.edu/
+25/03/21, 1:33 am - Bodybuilder: Ofc I know this!
+25/03/21, 1:35 am - Astitv: Ofc I know u know...is there something you don't?
+25/03/21, 1:42 am - Astitv: http://www.tnb.ua.ac.be/mailman/listinfo/comp-neuro
+25/03/21, 1:43 am - Bodybuilder: lol I meant very famous page
+25/03/21, 1:43 am - Bodybuilder: see dont know this lol
+25/03/21, 1:44 am - Astitv: finally!!!!! 😂
+25/03/21, 1:45 am - Astitv: https://github.com/awesomedata/awesome-public-datasets#neuroscience
+25/03/21, 1:46 am - Bodybuilder: https://blog.ml.cmu.edu/2019/05/31/using-deep-learning-to-help-us-understand-language-processing-in-the-brain/
+25/03/21, 1:48 am - Astitv: http://neuromorpho.org/
+25/03/21, 1:50 am - Astitv: https://osf.io/vhtf6/wiki/Localizer/
+25/03/21, 1:54 am - Astitv: https://openneuro.org/public/datasets
+25/03/21, 8:19 am - Bodybuilder: https://www.nature.com/subjects/computational-neuroscience
+25/03/21, 8:19 am - Bodybuilder: Great site!!
+25/03/21, 8:20 am - Bodybuilder: https://mcgovern.mit.edu/research-areas/computational-neuroscience/
+25/03/21, 8:22 am - Bodybuilder: I https://en.m.wikipedia.org/wiki/List_of_neuroscience_databases
+25/03/21, 11:46 am - Bodybuilder: https://innovatorsincogneuro.github.io
+25/03/21, 12:04 pm - Bodybuilder: Hey can you add submitted to the final list in Airtable if I share the creator link w/ you?
+25/03/21, 12:27 pm - Astitv: Sure
+25/03/21, 12:29 pm - Bodybuilder: will do that shortly thanks
+25/03/21, 12:37 pm - Bodybuilder: https://airtable.com/invite/l?inviteId=invBSEwcGxtHP4IxA&inviteToken=be6b77598d1785692b8cac8742ee34a0ffef4a3c3e31d97a86a589b9791f60ec
+25/03/21, 12:37 pm - Bodybuilder: Dont share w/ anyone only for admin purposes, also you can add directly to the DB if you want.
+25/03/21, 12:37 pm - Bodybuilder: Thanks!
+25/03/21, 12:42 pm - Astitv: Cool can I add to the submitted after I reach home as I won't have any time today?
+25/03/21, 12:42 pm - Bodybuilder: Yeah yeah whenever you are free np
+25/03/21, 12:43 pm - Astitv: Great! Will do ASAIC
+25/03/21, 12:43 pm - Bodybuilder: Thinking of opensourcing the project using a website as a front end so anyone can access in easily, realtime.
+25/03/21, 12:44 pm - Bodybuilder: Have everyones contributions and profile links etc.
+25/03/21, 12:44 pm - Bodybuilder: SImple homepage for the project
+25/03/21, 12:46 pm - Astitv: That would be great but let's turn meta into a sorta awesome pages repo where people can simply contribute through prs and we'll also add a form or extension or something so that they can add to the database directly without prs. I really wanted to maintain an updated repo with readmes for meta
+25/03/21, 12:47 pm - Bodybuilder: Yeah we'll try and embed the airtable itself in the website I think thats easier and would encorage non coders as well to quickly contribute?
+25/03/21, 12:47 pm - Bodybuilder: Can have the GH as well np.
+25/03/21, 12:51 pm - Astitv: Yup let's do that I'll set up a quick website and then we'll add to it as we go
+25/03/21, 12:51 pm - Bodybuilder: Yeah will look into it today.
+25/03/21, 12:52 pm - Astitv: Great! Let's build this into a full fledged FOSS project
+25/03/21, 12:52 pm - Bodybuilder: Fuck yes!
+25/03/21, 12:52 pm - Bodybuilder: The org alredady has some small good projects.
+25/03/21, 12:53 pm - Bodybuilder: Something like the original site would be good. https://meta-meta-resources.org
+25/03/21, 12:53 pm - Bodybuilder: https://github.com/UROP-X
+25/03/21, 12:53 pm - Bodybuilder: Send you Gh I'll add you.
+25/03/21, 12:55 pm - Astitv: binarypheonix
+25/03/21, 12:56 pm - Astitv: This is the original one?
+25/03/21, 12:56 pm - Bodybuilder: Yeah
+25/03/21, 12:56 pm - Bodybuilder: One that I took inspiration from anyways.
+25/03/21, 12:56 pm - Astitv: Tru dat
+25/03/21, 12:57 pm - Bodybuilder: Sent invitation.
+25/03/21, 12:57 pm - Astitv: I'll get started on the website as soon as I reach home. We'll work on the project on gh then
+25/03/21, 12:57 pm - Astitv: Great
+25/03/21, 12:57 pm - Bodybuilder: Sure. Let me know when we can start together.
+25/03/21, 12:58 pm - Bodybuilder: Also make some progress on comp neuro.
+25/03/21, 12:58 pm - Astitv: Yup definitely
+25/03/21, 12:58 pm - Astitv: I'm trying to find a good course that I could take on it
+25/03/21, 12:59 pm - Bodybuilder: CBMM has a good course
+25/03/21, 12:59 pm - Bodybuilder: Also have a look @OBHM
+25/03/21, 12:59 pm - Astitv: Yup I looked into that yesterday
+25/03/21, 1:00 pm - Astitv: Even shared it hhere it
+25/03/21, 1:00 pm - Bodybuilder: Whose Dr.Nancy's course?
+25/03/21, 1:01 pm - Bodybuilder: https://amfarahmand.github.io/IntroRL/
+25/03/21, 1:02 pm - Astitv: Ifk
+25/03/21, 1:02 pm - Astitv: Idk
+25/03/21, 1:04 pm - Astitv: What is it?
+25/03/21, 1:05 pm - Bodybuilder: This message was deleted
+25/03/21, 1:05 pm - Bodybuilder: Shared
+25/03/21, 1:06 pm - Astitv: Thanks!!
+25/03/21, 2:02 pm - Bodybuilder: Yo have a look when you get a ec
+25/03/21, 2:02 pm - Bodybuilder: https://twitter.com/enri_amico/status/1374709037489647622?s=21
+25/03/21, 2:37 pm - Astitv: Cool
+26/03/21, 2:10 am - Astitv: https://mcgovern.mit.edu/profile/satrajit-ghosh/
+26/03/21, 2:15 am - Astitv: https://mcgovern.mit.edu/profile/ila-fiete/
+26/03/21, 2:23 am - Astitv: Let's do research on nonlinear models of computation and the growth of complexity with the size of the systems
+26/03/21, 2:38 am - Bodybuilder: How is that related to neuroscience?
+26/03/21, 2:38 am - Bodybuilder: Thats fundamental stuff, asymtotic analysis etc.
+26/03/21, 2:40 am - Astitv: Because the brain IS a nonlinear computational system. What we're trying to do is develop theories that describe how such models would work independently of the case of human brain
+26/03/21, 2:40 am - Bodybuilder: One area which I think would be interesting is bio-inspired neural networks.
+26/03/21, 2:40 am - Astitv: That's just neural networks what's different?
+26/03/21, 2:40 am - Astitv: They ARE bio inspired aren't they
+26/03/21, 2:40 am - Bodybuilder: No they are not.
+26/03/21, 2:41 am - Astitv: Let's discuss this tomorrow I'm on a flight rn so the network can go out any moment
+26/03/21, 2:41 am - Astitv: Let's aggregate areas of interest to both of us and then we'll discuss each idea to zero in on the best ones
+26/03/21, 2:42 am - Bodybuilder: https://www.nature.com/articles/s42256-020-0187-0
+26/03/21, 2:42 am - Bodybuilder: Cool safe travels.
+26/03/21, 2:42 am - Astitv: Thanks. Ttyl
+26/03/21, 9:25 am - Bodybuilder: https://twitter.com/worldwideneuro/status/1375103938597416965?s=21
+26/03/21, 9:46 am - Bodybuilder: https://portal.brain-map.org/?fbclid=IwAR31tA1nsDhVdiF8f8QNmTXGd5v7XiC59hXNXY9tOlJYnCmywVE493HPais
+26/03/21, 9:51 am - Bodybuilder: https://gradio.app/hub/AK391/CLIP
+27/03/21, 5:32 am - Bodybuilder: https://twitter.com/yulikeneuro/status/1375275279862616068?s=21
+27/03/21, 10:10 am - Astitv: 🔥
+28/03/21, 11:23 am - Astitv: http://www.scholarpedia.org/article/Encyclopedia_of_computational_neuroscience
+28/03/21, 11:28 am - Astitv: https://arxiv.org/pdf/1804.08150.pdf
+28/03/21, 11:29 am - Astitv: https://www.frontiersin.org/articles/10.3389/fncom.2021.627567/abstract
+28/03/21, 11:31 am - Astitv: https://www.frontiersin.org/articles/10.3389/fncom.2021.617862/full
+28/03/21, 11:36 am - Astitv: oye ye meta_res me main aur submitted do alag tables kyu h ek me hi merge krde na
+28/03/21, 2:22 pm - Bodybuilder: Haan I do it occasionally
+28/03/21, 2:23 pm - Bodybuilder: Kar de np just thoda check karde submitted me sab thik de Bhara hai
+28/03/21, 2:23 pm - Bodybuilder: Then merge
+28/03/21, 4:08 pm - Astitv: Cool
+28/03/21, 7:53 pm - Astitv: sun bhai mai submitted ke sare records main me dalke submitted ko clear kr dun?
+28/03/21, 11:09 pm - Bodybuilder: Sure thanks
+28/03/21, 11:13 pm - Astitv: cool
+29/03/21, 6:41 am - Bodybuilder: Let me know when you merge it. Thanks!
+29/03/21, 8:22 am - Bodybuilder: https://www.quantamagazine.org/avi-wigderson-and-laszlo-lovasz-win-abel-prize-20210317/
+29/03/21, 9:36 am - Bodybuilder: Have time today to look into some frontend for UROP homepage?
+29/03/21, 9:37 am - Astitv: I will. After sessionals
+29/03/21, 10:02 pm - Bodybuilder: Ok.
+30/03/21, 8:18 am - Bodybuilder: Can you send upcoming workshops we can look into?
+30/03/21, 8:18 am - Bodybuilder: To submit our work and draw up a timeline
+30/03/21, 9:39 am - Astitv: Sure I'll look into them. Send here if I find anything interesting...
+30/03/21, 9:41 am - Bodybuilder: Will do
+01/04/21, 5:25 pm - Bodybuilder: https://www.sciencedirect.com/science/article/abs/pii/S1364661315000236?via%3Dihub
+01/04/21, 5:26 pm - Bodybuilder: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4574630/
+01/04/21, 6:28 pm - Astitv: Hey I was thinking of removing the description part of the form and replacing it with tags that can be updated (people can add if they can't find the ones they are looking for). Minimum 3-4 tags would do ig
+01/04/21, 6:28 pm - Astitv: What do you think?
+01/04/21, 6:29 pm - Astitv: Would make the process Lott more streamlined and also help working with the resources better
+01/04/21, 6:30 pm - Bodybuilder: Yeah sounds like a good plan, dont remove the description just yet make another column named keywords?
+01/04/21, 6:30 pm - Astitv: Yeah let's just make description optional if anyone wants to add
+01/04/21, 6:31 pm - Astitv: Also would make it compatible with the previous resources
+01/04/21, 6:31 pm - Bodybuilder: And edit the form have description optional and keywords required
+01/04/21, 6:31 pm - Astitv: Yes
+01/04/21, 6:32 pm - Astitv: With the option to add tags if they don't find what they want...it'll grow itself we wouldn't have to make it all ourselves
+01/04/21, 6:33 pm - Bodybuilder: Yeah awsome!!!
+01/04/21, 6:33 pm - Astitv: Awwwsome
+01/04/21, 6:35 pm - Astitv: Also I was thinking of making a chrome extension for the form to make it smoother for people to add to the base...I'll look into the API see if I can find anything
+01/04/21, 6:35 pm - Astitv: If you find something lemme know
+01/04/21, 6:36 pm - Bodybuilder: I think you can create an extention directly, I'll look into that as well.
+01/04/21, 6:36 pm - Astitv: Also website ka Kya socha h?
+01/04/21, 6:38 pm - Bodybuilder: nm
+01/04/21, 6:40 pm - Astitv: I was thinking maybe we could start with a simple landing page with all the links to the important points like the project GitHub, form, other stuff idk and then expand on it as we go..
+01/04/21, 6:40 pm - Bodybuilder: Can use Squarespace, or develop a static website.
+01/04/21, 6:40 pm - Bodybuilder: Yeah.
+01/04/21, 6:40 pm - Astitv: I'll go with static..
+01/04/21, 6:40 pm - Astitv: We can redesign it if the need arises
+01/04/21, 6:41 pm - Astitv: What all would it be used for?
+01/04/21, 6:42 pm - Bodybuilder: https://ghost.org/customers/
+01/04/21, 6:42 pm - Bodybuilder: Right now just landing and showing links + contributors + work etc.
+01/04/21, 6:42 pm - Astitv: Work as in?
+01/04/21, 6:45 pm - Bodybuilder: Current repos +research
+01/04/21, 6:45 pm - Astitv: Cool
+01/04/21, 6:45 pm - Bodybuilder: Webpage would be for https://github.com/UROP-X
+01/04/21, 6:45 pm - Astitv: Yeah
+01/04/21, 6:46 pm - Astitv: I'll look into some designs...let you know
+01/04/21, 6:46 pm - Bodybuilder: Same her.
+01/04/21, 6:46 pm - Bodybuilder: Send it here.
+01/04/21, 6:47 pm - Bodybuilder: OPr lets create another group for web dev I know other people also wanted to join in.
+01/04/21, 6:47 pm - Astitv: Let's just outsource it to someone in the group
+01/04/21, 6:48 pm - Bodybuilder: No I want to create a unique landing page, so I'll stay in the loop for dev, could be another side-project as a whole
+01/04/21, 7:00 pm - Bodybuilder: thoughts?
+01/04/21, 7:03 pm - Astitv: Yeah makes sense
+01/04/21, 7:03 pm - Astitv: What do you have in mind?
+01/04/21, 7:05 pm - Bodybuilder: Lets find some good UX templates we'll see.
+01/04/21, 7:12 pm - Astitv: Yupp
+01/04/21, 7:30 pm - Bodybuilder: Cool lets start another group for people who wanna join that project.
+01/04/21, 7:35 pm - Astitv: Let's do it 💪
+01/04/21, 7:37 pm - Bodybuilder: Fyck yes!
+01/04/21, 7:37 pm - Bodybuilder: http://neural-reckoning.org/comp-neuro-resources.html
+01/04/21, 7:40 pm - Astitv: Fyck 🤭
+01/04/21, 7:42 pm - Bodybuilder: https://www.reddit.com/r/reinforcementlearning/comments/9pwy2f/wbe_and_drl_a_middle_way_of_imitation_learning/?utm_source=amp&utm_medium=&utm_content=post_body
+01/04/21, 9:54 pm - Astitv: https://finestdevs.com/shade/
+01/04/21, 9:56 pm - Astitv: https://webresourcesdepot.com/
+01/04/21, 9:57 pm - Bodybuilder: https://github.com/UROP-X/landing-page
+01/04/21, 9:57 pm - Bodybuilder: Previous one that was in dev
+01/04/21, 10:00 pm - Astitv: not hosted?
+01/04/21, 10:01 pm - Bodybuilder: no
+01/04/21, 10:01 pm - Bodybuilder: Didn't like it
+01/04/21, 10:02 pm - Bodybuilder: Also need a different format, inetgrated blog as well.
+01/04/21, 10:02 pm - Bodybuilder: Thats why was looking into https://ghost.org
+01/04/21, 10:02 pm - Astitv: https://urop-xxx.surge.sh/
+01/04/21, 10:02 pm - Astitv: I hosted it
+01/04/21, 10:02 pm - Astitv: it's really shit
+01/04/21, 10:03 pm - Bodybuilder: ik
+01/04/21, 10:04 pm - Astitv: what are your design goals?
+01/04/21, 10:04 pm - Astitv: i was thinking maybe we could have a typing effect in the middle with all the links to people, github, contribute etc. on the nav bar and other social links like whatsapp, slack etc. in the bottom
+01/04/21, 10:06 pm - Astitv: I wanna keep the index page as clean as possible, but that's my design philosophy...what about you?
+01/04/21, 10:06 pm - Bodybuilder: Yeah
+01/04/21, 10:08 pm - Astitv: I don't like it when people have to actively look for things. The simpler the better
+01/04/21, 10:09 pm - Astitv: could you give me a list of links to add to the landing page top as well as a list of the social and/or other endpoints for the UROP-X project
+01/04/21, 10:09 pm - Astitv: ?
+01/04/21, 10:13 pm - Bodybuilder: Yeah I;ll send something later doing some work now.
+01/04/21, 10:13 pm - Bodybuilder: Yes I'll create a media packet.
+01/04/21, 10:13 pm - Astitv: cool
+01/04/21, 10:13 pm - Bodybuilder: Also we can think about changing the name.
+01/04/21, 10:14 pm - Astitv: sure
+02/04/21, 9:23 pm - Astitv: https://urop-x.surge.sh/
+02/04/21, 9:23 pm - Astitv: The UROP-X Website for now..
+02/04/21, 9:24 pm - Bodybuilder: Sexy
+02/04/21, 9:24 pm - Astitv: Anything you want to add?
+02/04/21, 9:26 pm - Bodybuilder: I'll uodate the doc @ night then we can change.
+02/04/21, 9:27 pm - Astitv: cool
+03/04/21, 9:45 pm - Bodybuilder: https://cajalneuro.com love this theme
+03/04/21, 10:20 pm - Astitv: Yeah gives an antique appeal
+03/04/21, 10:24 pm - Astitv: http://www.dollardreadful.com/
+03/04/21, 10:24 pm - Bodybuilder: yeah
+03/04/21, 10:24 pm - Astitv: Check this out
+03/04/21, 10:26 pm - Bodybuilder: love it
+03/04/21, 10:26 pm - Astitv: It's like those 50's newspapers
+03/04/21, 10:26 pm - Bodybuilder: yeah ik
+03/04/21, 10:26 pm - Bodybuilder: Western feel
+03/04/21, 10:27 pm - Astitv: I was thinking what about the name?
+03/04/21, 10:28 pm - Astitv: Urop doesn't really have that ring to it
+03/04/21, 10:32 pm - Astitv: https://www.projectencephalon.org/
+03/04/21, 10:33 pm - Bodybuilder: ik them
+03/04/21, 10:33 pm - Bodybuilder: Yeah can think about some names
+03/04/21, 10:36 pm - Astitv: Any ideas?
+03/04/21, 10:37 pm - Bodybuilder: Project _____
+03/04/21, 10:37 pm - Bodybuilder: seems good
+03/04/21, 10:37 pm - Bodybuilder: or some grek/latin name/derivative
+03/04/21, 10:40 pm - Astitv: I was thinking The White Matter Project
+03/04/21, 10:41 pm - Bodybuilder: lol
+03/04/21, 10:41 pm - Bodybuilder: cringe
+03/04/21, 10:42 pm - Astitv: How?
+03/04/21, 10:43 pm - Astitv: Its apt for the purpose of the project
+03/04/21, 10:43 pm - Bodybuilder: too geneic.
+03/04/21, 10:43 pm - Astitv: Although...yeah now I see it 😂
+03/04/21, 10:43 pm - Bodybuilder: lol
+03/04/21, 10:43 pm - Astitv: People could misunderstand it for other types of "White" matter
+03/04/21, 10:44 pm - Bodybuilder: damn.
+03/04/21, 10:44 pm - Bodybuilder: project LISA
+03/04/21, 10:44 pm - Bodybuilder: Locally Integrated Software Architecture
+03/04/21, 10:44 pm - Astitv: Jobs copyright
+03/04/21, 10:45 pm - Astitv: Lol
+03/04/21, 10:45 pm - Bodybuilder: ruk I'll add you to the group vaha discuss
+03/04/21, 10:45 pm - Bodybuilder: ofc
+03/04/21, 10:45 pm - Astitv: I'll come up with a good name 😉
+03/04/21, 10:46 pm - Bodybuilder: META
+03/04/21, 10:46 pm - Astitv: Full?
+03/04/21, 10:46 pm - Bodybuilder: meta
+/ˈmɛtə/
+noun
+noun: meta; plural noun: metas
+short for meta key.
+adjectiveUS
+adjective: meta
+(of a creative work) referring to itself or to the conventions of its genre; self-referential.
+"the enterprise is inherently ‘meta’, since it doesn't review movies, for example, it reviews the reviewers who review movies"
+03/04/21, 10:47 pm - Astitv: Oh I thought it was an abbreviation
+03/04/21, 10:47 pm - Bodybuilder: https://www.merriam-webster.com/dictionary/meta
+03/04/21, 10:47 pm - Bodybuilder: NO in the literal sense
+03/04/21, 10:48 pm - Bodybuilder: investigationem
+03/04/21, 10:49 pm - Astitv: <Media omitted>
+03/04/21, 10:50 pm - Astitv: I was thinking maybe something more philosophical
+03/04/21, 10:50 pm - Bodybuilder: damn gotta save this gif
+03/04/21, 10:50 pm - Astitv: Yup
+03/04/21, 10:50 pm - Astitv: How about the axiology project?
+03/04/21, 10:51 pm - Bodybuilder: wtf does that mean?
+03/04/21, 10:51 pm - Astitv: It's a branch of philosophy
+03/04/21, 10:51 pm - Bodybuilder: no
+03/04/21, 10:54 pm - Bodybuilder: intellēctus
+03/04/21, 10:54 pm - Bodybuilder: Project  intellēctus
+03/04/21, 10:54 pm - Astitv: Project brainstorm
+03/04/21, 10:54 pm - Astitv: PBS 🤔🤭
+03/04/21, 10:55 pm - Bodybuilder: naah
+03/04/21, 10:55 pm - Bodybuilder: latent logic
+03/04/21, 10:55 pm - Astitv: Oki
+03/04/21, 10:56 pm - Astitv: Look let's find a cool abbreviation and we'll find a full form of it later
+03/04/21, 10:56 pm - Astitv: Keep it mysterious
+03/04/21, 10:56 pm - Bodybuilder: sure np
+03/04/21, 10:57 pm - Bodybuilder: Project X
+03/04/21, 10:57 pm - Astitv: Lol already taken by some random company in the valley
+03/04/21, 10:57 pm - Astitv: Project PSI
+03/04/21, 10:57 pm - Bodybuilder: google
+03/04/21, 10:57 pm - Bodybuilder: lol
+03/04/21, 10:57 pm - Astitv: As in the symbol psi
+03/04/21, 10:57 pm - Astitv: Greek
+03/04/21, 10:57 pm - Bodybuilder: e are not commercial we can copy lol
+03/04/21, 10:58 pm - Bodybuilder: This?
+03/04/21, 10:58 pm - Astitv: ..
+03/04/21, 10:58 pm - Astitv: Rhymes with gallactus
+03/04/21, 10:58 pm - Astitv: Marvelly
+03/04/21, 10:59 pm - Astitv: How about The KAI project
+03/04/21, 10:59 pm - Bodybuilder: i see
+03/04/21, 10:59 pm - Astitv: ??
+03/04/21, 10:59 pm - Bodybuilder: noooo
+03/04/21, 10:59 pm - Astitv: Why so many oos?
+03/04/21, 10:59 pm - Astitv: Lol
+04/04/21, 4:06 pm - Bodybuilder: https://deepmind.com/research?filters=%7B%22tags%22:%5B%22Neuroscience%22%5D%7D
+04/04/21, 4:06 pm - Bodybuilder: Cell press http://klab.tch.harvard.edu/academia/classes/BAI/pdfs/1-s2.0-S0896627317305093-main.pdf
+04/04/21, 4:07 pm - Astitv: Which one,
+04/04/21, 4:08 pm - Astitv: His work on habits
+04/04/21, 4:08 pm - Astitv: and their tuning during sleep
+04/04/21, 4:08 pm - Bodybuilder: No send again?
+04/04/21, 4:09 pm - Astitv: https://www.alumni.caltech.edu/techer//only-in-dreams
+04/04/21, 4:09 pm - Astitv: I'll have to find the paper don't remember where I put it
+04/04/21, 4:10 pm - Bodybuilder: Cool
+04/04/21, 4:12 pm - Astitv: https://www.tandfonline.com/doi/abs/10.2501/S0265048708080037
+04/04/21, 4:15 pm - Astitv: I'm really interested in doing research on procrastination, feedback loops, learning patterns...stuff like that
+04/04/21, 4:16 pm - Bodybuilder: Cool I’ll read it
+04/04/21, 4:16 pm - Bodybuilder: Yeah Neuro inspired RL is something to lol into then
+04/04/21, 4:17 pm - Astitv: Also something to check out is behavioural economics, esp. the works of Kahneman and Thaler
+04/04/21, 4:17 pm - Astitv: All of these relate to the neuroscience of decision making which is a really hot topic rn
+04/04/21, 4:19 pm - Astitv: Also we could work on creating models for how the brain connects sensory input and is capable of using it for logical analysis, how we go from bare sensory information to knowledge and our own models of the world
+04/04/21, 4:20 pm - Astitv: how to brain sort of builds the reality that we experience
+04/04/21, 4:21 pm - Bodybuilder: Yes but too much intersections we don’t have enough domain knowledge
+04/04/21, 4:22 pm - Astitv: well it's a field that requires the knowledge of a lot of domains so you know..
+04/04/21, 4:22 pm - Astitv: which direction we head towards is upto us
+04/04/21, 4:22 pm - Bodybuilder: Rl + Neuro is safe
+04/04/21, 4:22 pm - Astitv: yeah
+04/04/21, 4:23 pm - Astitv: maybe this is something we should look into
+04/04/21, 4:23 pm - Astitv: It could have applications on real decision making systems
+04/04/21, 4:23 pm - Astitv: that work parallel to how humans make decisions
+04/04/21, 4:24 pm - Astitv: which is essentially what RL is
+04/04/21, 4:24 pm - Astitv: although I really feel RL today is more like Dynamic programming with the search space being too big so we end up approximating stuff
+04/04/21, 4:25 pm - Bodybuilder: Yeah there is stuff in applied robotics learning g system s
+04/04/21, 4:25 pm - Bodybuilder: Can use sims
+04/04/21, 4:25 pm - Astitv: We could work on mimicking the entire decision making process in the human brain instead of just trying to use lame analogies
+04/04/21, 4:26 pm - Astitv: have you read anything on cognitive biases?
+04/04/21, 4:26 pm - Bodybuilder: Yeah we know there is a feedback loop not that simple
+04/04/21, 4:27 pm - Astitv: lol that's all anyone working in RL ever talks about
+04/04/21, 4:27 pm - Astitv: ???
+04/04/21, 4:27 pm - Astitv: if it were that simple this wouldn't exist
+04/04/21, 4:27 pm - Bodybuilder: YeAh  a bit
+04/04/21, 4:35 pm - Astitv: have you studied Dynamical Systems/Non-Linear Systems/Chaos Theory?
+04/04/21, 4:36 pm - Bodybuilder: NLS yes chaos no.
+04/04/21, 4:37 pm - Astitv: http://klab.tch.harvard.edu/academia/classes/BAI/pdfs/1-s2.0-S0896627317305093-main.pdf
+04/04/21, 4:38 pm - Astitv: ^^^
+04/04/21, 4:40 pm - Bodybuilder: lol I just send this on meta
+04/04/21, 4:40 pm - Astitv: oh yeah I also had it open
+04/04/21, 4:40 pm - Astitv: lol
+04/04/21, 4:41 pm - Astitv: before you sent it
+04/04/21, 4:41 pm - Bodybuilder: gods
+04/04/21, 4:41 pm - Bodybuilder: knwo any other god who does actual reseach?
+04/04/21, 4:41 pm - Astitv: 🙏🏻
+04/04/21, 10:39 pm - Bodybuilder: lol
+05/04/21, 7:29 am - Bodybuilder: Hey let’s get serious about UROP and our research after today’s exams.
+05/04/21, 7:29 am - Bodybuilder: Happy to bring you in as an executive member in the org as well.
+05/04/21, 10:38 am - Astitv: Definitely
+05/04/21, 10:39 am - Astitv: I'm already on it lol
+05/04/21, 10:39 am - Astitv: Wait
+05/04/21, 10:39 am - Astitv: I've prepared a mission and a vision statement for the project
+05/04/21, 10:42 am - Bodybuilder: Cool we'll talk after 6p today then?
+05/04/21, 10:46 am - Astitv: Got an assignment but I'll text here as soon as I get free
+05/04/21, 11:03 am - Bodybuilder: https://airtable.com/shrtu8n6KUSLCH3V7
+05/04/21, 11:06 am - Astitv: New format?
+05/04/21, 11:06 am - Astitv: Niceee
+05/04/21, 11:07 am - Bodybuilder: Wrong link https://esoteric.codes/blog/jon-corbett
+05/04/21, 11:07 am - Bodybuilder: Did you merge submissions?
+05/04/21, 11:07 am - Astitv: Yup
+05/04/21, 11:07 am - Astitv: In the main
+05/04/21, 11:08 am - Astitv: Submitted only has my new submissions the last time I checked
+05/04/21, 11:08 am - Astitv: And a couple of other links I think
+05/04/21, 11:09 am - Bodybuilder: Awesome I'll have to add all of mine in meta whatrsapp have not done any
+05/04/21, 11:10 am - Astitv: Yeah that's what I see
+05/04/21, 11:11 am - Astitv: Everyone adds to the group not the table
+05/04/21, 11:11 am - Astitv: Lol
+05/04/21, 11:11 am - Bodybuilder: I can just export the chat and filter the links
+05/04/21, 11:12 am - Astitv: Yeah I guess but honestly we need to find a way to make this more streamlined
+05/04/21, 11:12 am - Bodybuilder: Nah RegEX baby
+05/04/21, 11:13 am - Astitv: Yup
+05/04/21, 11:13 am - Bodybuilder: Once we have the website I think it wouldf be simpler and more accessible.
+05/04/21, 11:13 am - Astitv: Anything that starts with https goes in the bin 🍻
+05/04/21, 11:13 am - Bodybuilder: yup
+05/04/21, 11:13 am - Bodybuilder: https://stackoverflow.com/questions/5328065/regex-extract-website-address-from-log-file
+05/04/21, 11:14 am - Astitv: I really think the description part is what makes it user unfriendly
+05/04/21, 11:14 am - Bodybuilder: Should work.
+05/04/21, 11:15 am - Bodybuilder: http://tools.buzzstream.com/meta-tag-extractor
+05/04/21, 11:15 am - Bodybuilder: A script to do this would do
+05/04/21, 11:15 am - Astitv: Well that solves our problems
+05/04/21, 11:16 am - Bodybuilder: Need to find an opensource implementation.
+05/04/21, 11:16 am - Astitv: This doesn't have an API?
+05/04/21, 11:17 am - Bodybuilder: Paid.
+05/04/21, 11:17 am - Astitv: Lol everything that is paid has an open source alternative these days
+05/04/21, 11:18 am - Bodybuilder: Yes need to find that, so regEx and this script.
+05/04/21, 11:19 am - Bodybuilder: https://github.com/lethain/extraction
+05/04/21, 11:20 am - Astitv: I'll look into what I can build after the exams
+05/04/21, 11:20 am - Bodybuilder: Same
+05/04/21, 11:21 am - Bodybuilder: https://gist.github.com/muhammedbasilsk/36912695823a01a90eb1cac617f068ed
+05/04/21, 11:21 am - Bodybuilder: Automating the boring stuff
+05/04/21, 11:21 am - Astitv: https://scrapy.org/
+05/04/21, 11:21 am - Astitv: Industrializing Meta resources
+05/04/21, 11:22 am - Astitv: Look into this when u r free
+05/04/21, 11:22 am - Bodybuilder: lol also if you knowany other devs who'd helpin building the website add them too.
+05/04/21, 11:22 am - Bodybuilder: cool
+05/04/21, 11:23 am - Astitv: Create another group for that ig maybe meta_admin or something
+05/04/21, 11:23 am - Astitv: This one's for research
+05/04/21, 11:23 am - Bodybuilder: Use the UROP one..
+05/04/21, 11:23 am - Astitv: Yeah ig
+05/04/21, 11:24 am - Astitv: Change it to meta_admin for now we'll think of something later
+05/04/21, 2:47 pm - Bodybuilder: https://blog.evjang.com/2021/02/backprop.html?m=1
+05/04/21, 2:57 pm - Astitv: Despite the name and their impressive capabilities on various tasks, DNNs actually have very little to do with biological neural networks. One of the great errors in the field of Machine Learning is that we ascribe too much biological  meaning to our statistical tools and optimal control algorithms. It leads to confusion from newcomers, who ascribe entirely different meaning to "learning", "evolutionary algorithms", and so on.
+05/04/21, 2:57 pm - Astitv: That's true
+05/04/21, 2:57 pm - Astitv: Neural nets really don't have much to do at all with how the brain functions
+05/04/21, 2:58 pm - Astitv: Problem is no one really knows how the brain learns so...that's something...
+05/04/21, 3:03 pm - Astitv: https://www.scientificamerican.com/article/the-brain-learns-in-unexpected-ways/#:~:text=In%201949%20psychologist%20Donald%20Hebb,happens%2C%20learning%20has%20taken%20place.
+05/04/21, 3:05 pm - Astitv: But subsequent research found that learning changes the structure of the brain.
+
+The kind of learning that leads to alterations in brain tissue is not limited to repetitive sensorimotor skills such as playing a musical instrument. Neuroscientist Bogdan Draganski, currently at the University of Lausanne in Switzerland, and his colleagues witnessed increases in the volume of gray matter in medical students’ brains after they studied for an examination. Many different cellular changes could expand gray matter volume, including the birth of new neurons and of nonneuronal cells called glia.
+05/04/21, 3:06 pm - Astitv: Yaniv Assaf of Tel Aviv University and his colleagues showed that 16 laps around a race track in a computerized video game were enough to cause changes in new players’ hippocampal brain region.
+05/04/21, 3:06 pm - Astitv: I had an idea for a neural net that worked on similar paradigm
+06/04/21, 12:04 am - Astitv: Btw I've thought of the rebranding of the UROP-X Project..
+06/04/21, 12:04 am - Astitv: Wait I'll share it with you
+06/04/21, 12:04 am - Astitv: Tell me what you think
+06/04/21, 12:05 am - Astitv: https://www.notion.so/The-Neumann-Project-b50493dc47e44dbeb6232ffe3ea175a7
+06/04/21, 12:06 am - Bodybuilder: Not notion I hate notion
+06/04/21, 12:06 am - Bodybuilder: I'll send you we already have a space.
+06/04/21, 12:06 am - Astitv: ok I'll send it here
+06/04/21, 12:07 am - Astitv: <Media omitted>
+06/04/21, 12:10 am - Bodybuilder: I already have worked on content gimme a sec.
+06/04/21, 12:10 am - Bodybuilder: https://www.dropbox.com/scl/fi/o0ck1lwal3y477xfwyjaj/UROP-INVITATION.paper?dl=0&rlkey=2ocbcc53aqjz9um2my8lrkbs5
+06/04/21, 12:11 am - Astitv: It's still UROP na
+06/04/21, 12:11 am - Bodybuilder: edit below the original text
+06/04/21, 12:11 am - Astitv: Finalized the name yet?
+06/04/21, 12:11 am - Bodybuilder: OK for now until/if we come up with something better
+06/04/21, 12:12 am - Astitv: ig
+06/04/21, 9:26 am - Bodybuilder: https://www.youtube.com/watch?v=qIEfJ6OBGj8
+06/04/21, 9:31 pm - Astitv: https://arxiv.org/pdf/2007.03750.pdf
+06/04/21, 9:44 pm - Bodybuilder: Yeah lets catch up the pace on development of the org setting up the exec team.
+06/04/21, 9:45 pm - Bodybuilder: And finalising our research direction
+06/04/21, 9:45 pm - Astitv: Yes
+06/04/21, 9:45 pm - Astitv: What have you planned till now?
+06/04/21, 9:45 pm - Bodybuilder: For which one?
+06/04/21, 9:45 pm - Astitv: both
+06/04/21, 9:46 pm - Astitv: But first for the UROP-X
+06/04/21, 9:47 pm - Astitv: For the Research direction I think focusing on the intersection of RL and Neuro would be great but we can expand to other fields like decision theory, operations research, control theory etc. later
+06/04/21, 9:47 pm - Bodybuilder: Lets have all content and stuff we have till now on a shared doc and folder and plan there.
+06/04/21, 9:47 pm - Astitv: Sure
+06/04/21, 9:47 pm - Bodybuilder: I agree.
+06/04/21, 9:47 pm - Astitv: First we really need to finalize a name for the org
+06/04/21, 9:47 pm - Astitv: REALLY
+06/04/21, 9:48 pm - Astitv: Maybe not the final name but something to work with for now
+06/04/21, 9:48 pm - Bodybuilder: Even does not have to be RL; bio-inspired NNs would would work as well.
+06/04/21, 9:49 pm - Astitv: Yeah but learning systems are just really awesome in general so I don't mind with either...most of the RL research today is dependent on DL anyway
+06/04/21, 9:50 pm - Astitv: Maybe create a google doc or dropbox and share it with everyone on the dev team to get started on the redesign of the project
+06/04/21, 9:50 pm - Bodybuilder: Same lets start lit review and narrow it down.
+06/04/21, 9:50 pm - Bodybuilder: ANything works right now.
+06/04/21, 9:50 pm - Bodybuilder: Use this.
+06/04/21, 9:50 pm - Bodybuilder: Think it has edit access.
+06/04/21, 9:50 pm - Astitv: I was thinking maybe we could start with a review paper on applications of Neuroscience on RL and vice versa and then work our way up from that
+06/04/21, 9:51 pm - Astitv: just us or you wanna include everyone else?
+06/04/21, 9:51 pm - Bodybuilder: Sounds like a plan!
+06/04/21, 9:52 pm - Bodybuilder: Incl. everyone I don't think they'll take interest but if anyone wants to.
+06/04/21, 9:52 pm - Astitv: It'll help us catch up with the current research in both fields deeply as well so we can plan out what we really wanna focus on after that and we'll have the requisite to doso
+06/04/21, 9:52 pm - Bodybuilder: Yeah Deepmind Neuro blog posts are a good place to start!
+06/04/21, 9:52 pm - Astitv: yeah at least for the rebranding part ig mehul and ankit might
+06/04/21, 9:52 pm - Astitv: I'll also start with the arxiv papers on the two fields
+06/04/21, 9:54 pm - Bodybuilder: Lets use this so there is no ambiguity in contributions. https://github.com/UROP-X/admin
+06/04/21, 9:55 pm - Astitv: That can be used for the final versions of everything but for now it dropbox is better
+06/04/21, 9:56 pm - Astitv: Also most of the members don't really contribute to the meta_res database or the project in general so need to find a way to get them going with things
+06/04/21, 9:56 pm - Bodybuilder: Sure push changes to GH as well as and when its done np. Let me know you should not have any access issues.
+06/04/21, 9:57 pm - Bodybuilder: No I've tried its a waste of time; I just do it for myself now and anyone else who wants to benefit is welcome.
+06/04/21, 9:57 pm - Astitv: Also I didn't push the urop-x terminal site as it's temporary so once we have the final website ready I'll put that up
+06/04/21, 9:58 pm - Astitv: People just don't realize the gold mine they are sitting on and what they can do with ti
+06/04/21, 9:58 pm - Astitv: it
+06/04/21, 9:58 pm - Bodybuilder: No worries on that.
+06/04/21, 9:58 pm - Bodybuilder: Fuck it I know evrything is available, their loss.
+06/04/21, 9:58 pm - Astitv: So lets discuss the stuff on the urop-x dev group
+06/04/21, 9:58 pm - Astitv: True. Same here
+06/04/21, 9:58 pm - Bodybuilder: I have wated my time on encouraging people before fals into deaf ears so fuck it
+06/04/21, 9:59 pm - Astitv: Yep anyone who actually wants to do something will go forward and contribute anyway
+06/04/21, 9:59 pm - Bodybuilder: Y
+06/04/21, 10:01 pm - Bodybuilder changed the group description
+06/04/21, 11:35 pm - Bodybuilder: https://dspace.mit.edu/handle/1721.1/106447
+06/04/21, 11:35 pm - Bodybuilder: https://dspace.mit.edu
+06/04/21, 11:58 pm - Bodybuilder: Yo @917903238656
+07/04/21, 12:02 am - Astitv: Hey
+07/04/21, 12:02 am - Astitv: Let's continue tommorrow...I have a headache so gonna sleep early..
+07/04/21, 12:03 am - Bodybuilder: sure thing.
+07/04/21, 12:03 am - Astitv: cool
+07/04/21, 12:03 am - Bodybuilder: note to self : emoji
+07/04/21, 12:05 am - Astitv: Lol what
+07/04/21, 12:06 am - Bodybuilder: talk tomorrow lol
+07/04/21, 12:06 am - Bodybuilder: great idea
+07/04/21, 1:07 am - Bodybuilder: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-080-great-ideas-in-theoretical-computer-science-spring-2008/lecture-notes/lec9.pdf
+07/04/21, 1:45 am - Bodybuilder: export chat --> URL-->keyword--> airtable API
+07/04/21, 9:07 am - Astitv: 🤷🏻‍♂️
+07/04/21, 4:30 pm - Bodybuilder: To automate link exports from WhatsApp
+07/04/21, 4:46 pm - Astitv: Oh you're working on that or you want me to?
+07/04/21, 4:50 pm - Bodybuilder: Just a note to automate things.
+07/04/21, 4:51 pm - Bodybuilder: Should be pretty straightforward both can work, can start a GH repo if you want for this
+07/04/21, 4:57 pm - Astitv: I'll look into it. See what I can come up with..
+07/04/21, 4:58 pm - Bodybuilder: Sam here
+07/04/21, 4:59 pm - Astitv: 👌🏻
+08/04/21, 2:43 pm - Astitv: https://github.com/toneworm/whatsapp-text-to-json
+08/04/21, 2:52 pm - Astitv: <Media omitted>
+08/04/21, 2:52 pm - Astitv: put this on the meta_resources dp
+08/04/21, 3:19 pm - Astitv: https://github.com/nordicgiant2/awesome-landing-page
+08/04/21, 3:19 pm - Astitv: For UROP Landing page ideas
+08/04/21, 3:19 pm - Astitv: ^
+08/04/21, 4:23 pm - Astitv: https://cbmm.mit.edu/sites/default/files/documents/Science%20Perspectives%20Ullman%202019.pdf
+08/04/21, 4:23 pm - Astitv: https://go.gale.com/ps/anonymous?id=GALE%7CA594456957&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=00280836&p=AONE&sw=w
+08/04/21, 4:24 pm - Astitv: https://www.hindawi.com/journals/aai/2010/918062/
+08/04/21, 4:24 pm - Astitv: https://github.com/binarypheonix/awesome-neuro-ai-papers
+08/04/21, 4:25 pm - Astitv: https://jinglescode.github.io/2020/03/03/fascinating-relationship-between-ai-neuroscience/
+08/04/21, 4:26 pm - Astitv: https://ricsinaruto.github.io/
+08/04/21, 4:28 pm - Astitv: https://github.com/uber-research/deep-neuroevolution
+08/04/21, 5:09 pm - Bodybuilder: Will have a look through these thanks!
+08/04/21, 5:20 pm - Astitv: <Media omitted>
+08/04/21, 5:21 pm - Bodybuilder: Are
+11/04/21, 5:01 pm - Astitv: <Media omitted>
+12/04/21, 2:01 am - Bodybuilder: Will read through
+12/04/21, 9:28 am - Bodybuilder: Let’s make some progress today?
+12/04/21, 9:36 am - Astitv: I was literally about to write the same thing
+12/04/21, 9:42 am - Bodybuilder: Yeah lets go!
+12/04/21, 9:55 am - Astitv: Hell yeah!!
+12/04/21, 9:56 am - Bodybuilder: Will ping you when I start working around11 lets get on a short call and get started thenl
+12/04/21, 9:56 am - Astitv: Sure
+12/04/21, 9:57 am - Astitv: Lemme just get a couple of things done..then I'll get right into it
+12/04/21, 10:02 am - Bodybuilder: Yeah
+12/04/21, 10:03 am - Bodybuilder: NO worries but we gotta put some hustle into it I don't have time post this week if nothing comes out ofr this weeks works I'm off FYI
+12/04/21, 10:05 am - Astitv: Same here...we need to get going on this and put something together quick..
+12/04/21, 10:09 am - Bodybuilder: COol Cool
+12/04/21, 10:17 am - Astitv: https://hai.stanford.edu/news/what-computations-role-neuroscience
+12/04/21, 10:18 am - Astitv: https://www.frontiersin.org/research-topics/10658/how-can-neuroscience-contribute-to-the-development-of-general-artificial-intelligence
+12/04/21, 10:19 am - Astitv: https://www.psy.ox.ac.uk/research/oxford-centre-for-theoretical-neuroscience-and-artificial-intelligence
+12/04/21, 10:19 am - Astitv: https://kreimanlab.com/
+12/04/21, 10:19 am - Astitv: http://www.sussex.ac.uk/ccnr/be_ai/proposals
+12/04/21, 10:19 am - Astitv: for ideas ^^
+12/04/21, 10:24 am - Bodybuilder: Yeah something that would be interesting is training any model on large neuro data.
+12/04/21, 10:24 am - Bodybuilder: Gotta do the review paper na?
+12/04/21, 10:26 am - Astitv: yep let's start with that then see where we really wanna go..
+12/04/21, 10:26 am - Astitv: everyone's doing that ig
+12/04/21, 10:26 am - Bodybuilder: Lets find some review papers.
+12/04/21, 10:26 am - Bodybuilder: Nooooo
+12/04/21, 10:27 am - Astitv: really? shocking..
+12/04/21, 10:27 am - Astitv: yup
+12/04/21, 10:27 am - Bodybuilder: Its difficult to use trhat data in traditional NNs
+12/04/21, 10:28 am - Bodybuilder: Ref SNNs can only do that afaik
+12/04/21, 10:28 am - Astitv: I'll look into it maybe when I get the time
+12/04/21, 10:28 am - Astitv: let's start on the review paper today
+12/04/21, 10:31 am - Bodybuilder: Yeah lets start with really old papers and go from there look into the lifecycle
+12/04/21, 10:31 am - Bodybuilder: Would be cool
+12/04/21, 10:33 am - Astitv: great..
+12/04/21, 10:33 am - Astitv: I'm just looking for the topics and concepts that papers like ours touch on to get a solid idea of what to pursue
+12/04/21, 10:33 am - Bodybuilder: Letys start using this
+12/04/21, 10:33 am - Bodybuilder: Dropbox Link Review Paper :https://www.dropbox.com/scl/fi/b7b4wa24ml3wwppch7qzy/Computational-Neuroscience-Research.paper?dl=0&rlkey=v2ici33r6buryuxaan4ywaric
+
+Dropbox UROP-X: https://www.dropbox.com/scl/fi/o0ck1lwal3y477xfwyjaj/UROP-INVITATION.paper?dl=0&rlkey=2ocbcc53aqjz9um2my8lrkbs5
+12/04/21, 10:34 am - Bodybuilder: Yeah oild papers are so interesting!
+12/04/21, 10:34 am - Astitv: they have a completely different perspective to recent ones because of the gap in knowledge!
+12/04/21, 10:38 am - Bodybuilder: Also not following the the status quo.
+12/04/21, 10:38 am - Bodybuilder: ANy friends who are competent enough to join?
+12/04/21, 10:39 am - Bodybuilder: Preferebly not from MUJ  lol
+12/04/21, 10:41 am - Astitv: I would love to have people who are majoring in neuroscience to join, who can contribute the kind of domain knowledge that e don't have when it comes to neuro
+12/04/21, 10:41 am - Astitv: we*
+12/04/21, 10:41 am - Bodybuilder: Yeah\
+12/04/21, 10:42 am - Bodybuilder: I'll take some courses and the review paper to learn more anyways.
+12/04/21, 10:42 am - Bodybuilder: Lewts get started if we encounter anyone we can ask
+12/04/21, 10:43 am - Astitv: I'm trying to compile a list of review papers in AI/Neuro to get a general idea of the structure of such papers and also for this..
+12/04/21, 10:43 am - Astitv: .
+12/04/21, 10:43 am - Astitv: yeah we can't afford to wait for anything at this point
+12/04/21, 10:44 am - Bodybuilder: Cool I'msure there is already a good study(ies) out there.
+12/04/21, 10:44 am - Bodybuilder: cool
+12/04/21, 10:44 am - Astitv: you have a good network on twitter..you could try communicating with some of them who would be interested in our research propoosals
+12/04/21, 10:44 am - Astitv: proposals
+12/04/21, 10:45 am - Astitv: but let's probably get a deep enough knowledge of the topics we'll be working on before we do that..don't wanna sound dumb lol
+12/04/21, 10:45 am - Bodybuilder: Lets get started review does not require any prereq
+12/04/21, 10:46 am - Astitv: I was talking about later research but ok
+12/04/21, 10:46 am - Astitv: sure
+12/04/21, 10:47 am - Bodybuilder: Yeah one step @ a timre
+12/04/21, 10:47 am - Bodybuilder: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3715443/
+12/04/21, 10:55 am - Bodybuilder: Lets limit the scope to neuro inspired AI
+12/04/21, 10:55 am - Bodybuilder: ideas
+12/04/21, 11:05 am - Astitv: wait I'll share the papers, maybe create a reading list on dropbox..
+12/04/21, 11:05 am - Astitv: https://ojs.aaai.org/index.php/aimagazine/article/view/2744
+12/04/21, 11:05 am - Astitv: https://neurologyindia.com/article.asp?issn=0028-3886;year=2018;volume=66;issue=4;spage=934;epage=939;aulast=Ganapathy
+12/04/21, 11:06 am - Astitv: https://www.researchgate.net/profile/Mohammed-Riyaz-Ahmed/publication/307010284_A_Review_of_Reinforcement_Learning_in_Neuromorphic_VLSI_Chips_using_Computational_Cognitive_Neuroscience/links/57c10bbc08ae2f5eb3322983/A-Review-of-Reinforcement-Learning-in-Neuromorphic-VLSI-Chips-using-Computational-Cognitive-Neuroscience.pdf
+12/04/21, 11:06 am - Astitv: https://link.springer.com/chapter/10.1007/978-3-319-71011-2_6
+12/04/21, 11:06 am - Astitv: https://acamh.onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-7610.2010.02349.x?deniedAccessCustomisedMessage=&userIsAuthenticated=false
+12/04/21, 11:06 am - Astitv: https://iopscience.iop.org/article/10.1088/1755-1315/384/1/012007/meta
+12/04/21, 11:06 am - Astitv: https://www.nature.com/articles/s41593-018-0210-5
+12/04/21, 11:06 am - Astitv: Some are paid so can't really do anything
+12/04/21, 11:10 am - Astitv: and vice versa ig
+12/04/21, 11:11 am - You changed the subject from "CS Research Problems" to "Neuro-AI Research"
+12/04/21, 11:25 am - Bodybuilder: https://www.rctn.org/bruno/public/papers/Fukushima1980.pdf
+12/04/21, 11:43 am - Bodybuilder: https://www.youtube.com/embed/rzNOuJIzk2E
+12/04/21, 11:45 am - Astitv: https://www.youtube.com/playlist?list=PLu02O8xRZn7xtNx03Rlq6xMRdYcQgEpar
+12/04/21, 11:49 am - Bodybuilder: Nice!!!
+12/04/21, 1:31 pm - Astitv: https://www.youtube.com/watch?v=97iYdJE9mQ4
+12/04/21, 1:34 pm - Astitv: check dropbox
+12/04/21, 1:36 pm - Astitv: https://mila.quebec/en/article/neural-ai-a-student-run-reading-group-at-the-intersection-of-artificial-intelligence-and-neuroscience/#:~:text=At%20the%20intersection%20of%20neuroscience,with%20human%2Dlike%20cognitive%20intelligence.
+12/04/21, 1:37 pm - Bodybuilder: I know this
+12/04/21, 1:38 pm - Bodybuilder: Yeah its great, something more exhaustive would be great!
+12/04/21, 1:38 pm - Bodybuilder: I'll tryna find more papers like thise
+12/04/21, 1:39 pm - Bodybuilder: See YBs talk on Neuroi AI
+12/04/21, 1:39 pm - Astitv: https://iopscience.iop.org/article/10.1088/1755-1315/384/1/012007/pdf
+12/04/21, 1:39 pm - Astitv: this paper
+12/04/21, 1:40 pm - Astitv: literally goes into nothing techincal
+12/04/21, 1:40 pm - Bodybuilder: Skimmed through
+12/04/21, 1:41 pm - Astitv: so have you thought about the structure of our paper or what we
+12/04/21, 1:41 pm - Astitv: will include in it
+12/04/21, 1:41 pm - Astitv: ?
+12/04/21, 1:42 pm - Bodybuilder: some sections yes ]
+12/04/21, 1:42 pm - Bodybuilder: can discuss
+12/04/21, 1:43 pm - Astitv: What's the focus? Neuro inspired AI or the Intersection of Neuro and AI or simply a review of the past and present state of CompNeuro Research and predictions for the future?
+12/04/21, 1:43 pm - Astitv: or something else..
+12/04/21, 1:51 pm - Bodybuilder: Intersection I'll refer you to something waitl.
+12/04/21, 1:53 pm - Bodybuilder: https://hai.stanford.edu/events/2020-fall-conference-triangulating-intelligence-melding-neuroscience-psychology-and-ai
+12/04/21, 1:53 pm - Bodybuilder: Everything in this is gold!
+12/04/21, 2:03 pm - Astitv: holy$#%^
+12/04/21, 2:06 pm - Bodybuilder: yeah I have to watch the whole thing
+12/04/21, 2:06 pm - Bodybuilder: Its really good
+12/04/21, 2:06 pm - Bodybuilder: ALso the advisor pool is here
+12/04/21, 2:06 pm - Astitv: I'm gonna read a few papers and then get to this..
+12/04/21, 2:07 pm - Astitv: Let's work on the abstract and content structure in the evening if you're free
+12/04/21, 2:07 pm - Astitv: I'll be busy in the afternoon
+12/04/21, 2:08 pm - Bodybuilder: I'll work in the afternoon rn arguing on m,eta lol and tired
+12/04/21, 2:09 pm - Bodybuilder: Put some sections you think would be good I'll review in afternoon
+12/04/21, 2:09 pm - Astitv: I'll prepare a draft and send you when I have time...
+12/04/21, 2:09 pm - Bodybuilder: No worries just update the doc I have it open also Dropbox has a notification feature that sends you one when you have a new change in the doc'/
+12/04/21, 2:10 pm - Astitv: yeah I'll just post the resources and everything else there
+12/04/21, 2:10 pm - Astitv: so no worries
+12/04/21, 2:10 pm - Astitv: let
+12/04/21, 2:10 pm - Astitv: let's get this paper started today and keep it short but dense
+12/04/21, 2:11 pm - Bodybuilder: yeah
+12/04/21, 2:11 pm - Bodybuilder: but good content and extensively reseached
+12/04/21, 2:11 pm - Astitv: obv
+12/04/21, 2:12 pm - Astitv: I'll create two sections one for paper draft and the other for citations and I'll go through the stuff and reorganise them based on their quality
+12/04/21, 2:12 pm - Astitv: It'll be helpful if you did the same...would save a lot of time
+12/04/21, 2:13 pm - Astitv: just add the papers there in that section and maybe highlight what part of our paper refers them
+12/04/21, 2:13 pm - Bodybuilder: Sure
+12/04/21, 2:45 pm - Bodybuilder: https://hai.stanford.edu/events/2020-fall-conference-triangulating-intelligence-melding-neuroscience-psychology-and-ai
+12/04/21, 6:38 pm - Astitv: https://www.sciencedaily.com/releases/2020/12/201215082043.htm
+12/04/21, 9:09 pm - Bodybuilder: Will update @ night
+12/04/21, 9:09 pm - Bodybuilder: Something in the lines of this will rewatch
+12/04/21, 9:37 pm - Astitv: 👌
+13/04/21, 11:15 am - Bodybuilder: http://satcy.net
+13/04/21, 11:15 am - Bodybuilder: Design^^
+13/04/21, 11:16 am - Astitv: <Media omitted>
+13/04/21, 11:16 am - Bodybuilder: COpy this?
+13/04/21, 11:16 am - Astitv: Could do that ig it's too OP
+13/04/21, 11:17 am - Bodybuilder: yeahh
+13/04/21, 11:17 am - Astitv: and its literally just a landing page
+13/04/21, 11:17 am - Bodybuilder: httpsattack
+13/04/21, 11:17 am - Bodybuilder: Best!
+13/04/21, 11:17 am - Bodybuilder: ©️SATOSHI HORII All Rights Reserved.
+13/04/21, 11:18 am - Astitv: yeah
+13/04/21, 11:19 am - Astitv: I was thinking something on the lines of Mandelbrot set animation as background but this looks dope too
+13/04/21, 11:20 am - Astitv: https://math.hws.edu/eck/js/mandelbrot/MB.html
+13/04/21, 11:21 am - Bodybuilder: ik
+13/04/21, 11:27 am - Bodybuilder: Fuck template
+13/04/21, 11:27 am - Bodybuilder: https://www.sciencedirect.com/science/article/pii/S0896627317305093
+13/04/21, 11:28 am - Astitv: Seen it
+13/04/21, 11:28 am - Astitv: Wut
+13/04/21, 11:28 am - Bodybuilder: Its perfect to model sections of our review on.
+13/04/21, 11:28 am - Astitv: Yeah
+13/04/21, 11:28 am - Astitv: I think I shared it before idk
+13/04/21, 11:28 am - Astitv: ??
+13/04/21, 11:29 am - Bodybuilder: idk have seen it ?
+13/04/21, 11:29 am - Bodybuilder: Have read it way back.
+13/04/21, 11:29 am - Astitv: No I was asking about template
+13/04/21, 11:29 am - Bodybuilder: Outline:
+13/04/21, 11:29 am - Bodybuilder: Outline
+Keywords
+Main Text
+The Past
+Deep Learning
+Reinforcement Learning
+The Present
+Attention
+Episodic Memory
+Working Memory
+Continual Learning
+The Future
+Intuitive Understanding of the Physical World
+Efficient Learning
+Transfer Learning
+Imagination and Planning
+Virtual Brain Analytics
+From AI to Neuroscience
+Conclusions
+Acknowledgments
+References
+13/04/21, 11:30 am - Bodybuilder: More or less we can condense some sections.
+13/04/21, 11:30 am - Astitv: This looks more about fields of AI then about their integration with neur
+13/04/21, 11:30 am - Bodybuilder: It buillds up.
+13/04/21, 11:31 am - Bodybuilder: Churchland and Sejnowski, 1988, Hebb, 1949, Hinton et al., 1986, Hopfield, 1982, McCulloch and Pitts, 1943, Turing, 1950 Looking for the citations in this paper.
+13/04/21, 11:31 am - Astitv: Yeah we can condense some of the sections into one and try to build a fluent transition from one to the other
+13/04/21, 11:32 am - Astitv: We should compile a list of papers to take ideas from for ours
+13/04/21, 11:32 am - Bodybuilder: Yeah.
+13/04/21, 11:32 am - Bodybuilder: I'll ,make a literature review section.
+13/04/21, 11:33 am - Astitv: Sections on areas of learning mechanisms that are built directly upon ideas from neuro would be good. All the specific problem domains that use both the fields heavily
+13/04/21, 11:48 am - Bodybuilder: Yeah
+13/04/21, 11:48 am - Bodybuilder: Lets look into the paper structure today.
+13/04/21, 12:08 pm - Astitv: You free in the afternoon?
+13/04/21, 12:11 pm - Bodybuilder: Working but I can work simultaneously.
+13/04/21, 12:11 pm - Bodybuilder: We should have a quick sync in the afternoon.
+13/04/21, 12:11 pm - Astitv: Maybe just a tldr of the plan and everything
+13/04/21, 12:11 pm - Bodybuilder: Yeah
+13/04/21, 12:11 pm - Astitv: Then we'll start working on it when we're free
+13/04/21, 12:12 pm - Astitv: Coz I won't have much time from tommorow
+13/04/21, 12:13 pm - Bodybuilder: ok
+13/04/21, 1:14 pm - Astitv: https://www.youtube.com/watch?v=o-x8_Slg2g4
+13/04/21, 1:19 pm - Bodybuilder: https://can-acn.org/meeting-2021/abstract-submission-2021/
+13/04/21, 1:26 pm - Astitv: this is purely for neuroscience or for interdisciplinary work?
+13/04/21, 1:27 pm - Astitv: Theme G would fit but idk..
+13/04/21, 1:27 pm - Bodybuilder: I'll look into it
+13/04/21, 1:27 pm - Astitv: cool
+13/04/21, 1:36 pm - Astitv: https://compneuroweb.com/index.html
+13/04/21, 1:37 pm - Astitv: https://www.bernstein-network.de/en/bernstein-conference/2021-online
+13/04/21, 1:37 pm - Bodybuilder: Cool
+13/04/21, 1:39 pm - Astitv: could you check the deadlines for CNS 2021..
+13/04/21, 1:41 pm - Astitv: https://www.cnsorg.org/cns-2021-abstract-submission
+13/04/21, 1:41 pm - Astitv: Nvm got it
+13/04/21, 1:44 pm - Astitv: It is particularly important that the biological relevance of the research be made clear. OCNS strongly believes in the open exchange of ideas and rejections are usually based on absence of biological relevance (e.g., pure machine learning) or the absence of any computational aspect (e.g., purely clinical neurology studies).
+13/04/21, 1:44 pm - Astitv: ^^^
+13/04/21, 1:48 pm - Bodybuilder: May start
+13/04/21, 1:50 pm - Astitv: We need to have relevant and comprehensive content from both fields so need to look into some neuroscience-only papers as well ig
+13/04/21, 1:51 pm - Bodybuilder: Its only an abstract
+13/04/21, 1:51 pm - Bodybuilder: poster
+13/04/21, 2:03 pm - Astitv: yeah
+13/04/21, 2:07 pm - Astitv: https://waset.org/computational-neuroscience-and-neural-networks-conference-in-august-2021-in-amsterdam
+13/04/21, 2:07 pm - Astitv: submission deadline is 15th
+13/04/21, 2:10 pm - Astitv: https://figshare.com/
+13/04/21, 2:19 pm - Bodybuilder: I can go all in
+13/04/21, 2:20 pm - Bodybuilder: 16th US TIME FOR US
+13/04/21, 2:21 pm - Astitv: 🔥🍻
+13/04/21, 2:21 pm - Bodybuilder: Fuck it lesss go
+13/04/21, 2:21 pm - Bodybuilder: I’ll take a bath be online around 4 430
+13/04/21, 2:21 pm - Bodybuilder: Let’s start then?
+13/04/21, 2:22 pm - Astitv: I won't be available between 5 and 7 but can do it after that
+13/04/21, 2:22 pm - Bodybuilder: Cool after 7 works
+13/04/21, 2:23 pm - Astitv: We'll try and get as much done as possible then whatevers left we'll finish tommorow
+13/04/21, 2:23 pm - Astitv: 👌🏻
+13/04/21, 2:24 pm - Bodybuilder: I’ll get started sync today work on it asynchronously
+13/04/21, 2:25 pm - Astitv: Sure that works
+13/04/21, 5:08 pm - Astitv: https://activetheory.net/home
+13/04/21, 5:12 pm - Astitv: https://qodeinteractive.com/kaleidoscope/
+13/04/21, 5:18 pm - Bodybuilder: Will have a look
+13/04/21, 5:27 pm - Bodybuilder: Can you also send anything you find on Neuro-inspired ideas as well historical applications in other areas of computing, media arts etc
+13/04/21, 5:28 pm - Astitv: Sure I'll send everything I find here...out rn tho
+13/04/21, 5:30 pm - Bodybuilder: Cool
+13/04/21, 5:30 pm - Bodybuilder: I’ll paste it on the doc anythi by that’s here for reference
+13/04/21, 11:13 pm - Bodybuilder: https://youtu.be/HNJPasJUGqs
+13/04/21, 11:49 pm - Astitv: Hey couldn't work today due to a medical emergency. Will get it done tomorrow..
+13/04/21, 11:59 pm - Astitv: https://neuroinformatics.incf.org/
+13/04/21, 11:59 pm - Astitv: http://www.cosyne.org/c/index.php?title=Cosyne_21
+14/04/21, 12:05 am - Bodybuilder: Np take care ; will work @ night
+14/04/21, 12:07 am - Astitv: 👌🏻
+14/04/21, 12:17 am - Bodybuilder: Yup still wanna try for the APr 16 deadline?
+14/04/21, 12:18 am - Astitv: Depends. How good you want the paper to be...I'm good with anything
+14/04/21, 12:19 am - Bodybuilder: lol facts
+14/04/21, 12:20 am - Bodybuilder: Whats the format length?
+14/04/21, 12:20 am - Astitv: Of?
+14/04/21, 12:20 am - Bodybuilder: https://www.youtube.com/channel/UCzOTbZTHTubFNjANAR33AAg
+14/04/21, 12:21 am - Bodybuilder: .
+14/04/21, 12:21 am - Astitv: It was given on their site. Don't remember tho
+14/04/21, 12:22 am - Bodybuilder: https://panel.waset.org/downloads/help/wasetAbstractCheckList.pdf
+14/04/21, 12:22 am - Bodybuilder: Yeah can you login and check please.
+14/04/21, 12:23 am - Astitv: Haven't made an account yet
+14/04/21, 12:24 am - Bodybuilder: Same.
+14/04/21, 12:24 am - Astitv: I don't think there'd be a strict limit on the paper maybe the abstract but that's not a problem
+14/04/21, 12:25 am - Astitv: Will check the details tomorrow before starting on the paper
+14/04/21, 12:26 am - Astitv: <Media omitted>
+14/04/21, 12:26 am - Bodybuilder: ofc there is
+14/04/21, 12:26 am - Astitv: Latex format
+14/04/21, 12:26 am - Bodybuilder: There should be a foprmat attached
+14/04/21, 12:26 am - Astitv: ..
+14/04/21, 12:26 am - Astitv: Can't open it tho. On the phone
+14/04/21, 12:26 am - Astitv: Check it out?
+14/04/21, 12:26 am - Bodybuilder: Cool I'll ope
+14/04/21, 12:26 am - Bodybuilder: wait '
+14/04/21, 12:26 am - Astitv: Thx
+14/04/21, 12:27 am - Astitv: The conference is offline, in Amsterdam I think
+14/04/21, 12:30 am - Astitv: <Media omitted>
+14/04/21, 12:30 am - Astitv: <Media omitted>
+14/04/21, 12:30 am - Bodybuilder: blob:null/36fdb2c3-f83c-4e48-b7bd-d9b2dd15b94b
+14/04/21, 12:30 am - Astitv: 4-15 pages
+14/04/21, 12:30 am - Astitv: We'll keep it around 8-10 ig
+14/04/21, 12:30 am - Astitv: Would be ideal imo
+14/04/21, 12:30 am - Bodybuilder: Not paper...abstractone
+14/04/21, 12:31 am - Bodybuilder: Not full-text there is another on
+14/04/21, 12:31 am - Bodybuilder: one
+14/04/21, 12:31 am - Astitv: https://panel.waset.org/conference/2021/08/amsterdam/ICCNNN/guideline
+14/04/21, 12:31 am - Astitv: Check it out for yourself
+14/04/21, 12:31 am - Astitv: Faqs
+14/04/21, 12:31 am - Bodybuilder: <Media omitted>
+14/04/21, 12:32 am - Bodybuilder: Paper not possibl;e in this timeframe
+14/04/21, 12:32 am - Astitv: Wait do it's one sided?
+14/04/21, 12:32 am - Bodybuilder: Lets aim for something later
+14/04/21, 12:32 am - Astitv: Am thinking same thing
+14/04/21, 12:32 am - Astitv: Even if we do manage wouldn't be very good or worthy I think
+14/04/21, 12:33 am - Bodybuilder: Yeah l;ets do it rigyht.
+14/04/21, 12:33 am - Astitv: Yep
+14/04/21, 12:33 am - Bodybuilder: Look for something in ~15 days trimeline
+14/04/21, 12:33 am - Astitv: But we CAN submit abstract if we want tho
+14/04/21, 12:33 am - Astitv: That would be fine too for the timeframe
+14/04/21, 12:33 am - Bodybuilder: I think we have to submit the entire thing
+14/04/21, 12:33 am - Bodybuilder: Can we only abs?
+14/04/21, 12:34 am - Astitv: No they have separate one for abstract too
+14/04/21, 12:34 am - Bodybuilder: manijng
+14/04/21, 12:34 am - Bodybuilder: sorr I'll read ones after logging in
+14/04/21, 12:34 am - Astitv: Nvm
+14/04/21, 12:35 am - Astitv: I'll check the conference in detail tomorrow and then tldr you on what's what
+14/04/21, 12:35 am - Astitv: Meanwhile let's do the paper right
+14/04/21, 12:35 am - Bodybuilder: cool I'll have a l;oo later @ night if its abs lets do it
+14/04/21, 12:35 am - Bodybuilder: else aim for something next
+14/04/21, 12:35 am - Astitv: Sure CNS also had abstracts and that's one of the biggest compneuro confs out there
+14/04/21, 12:36 am - Astitv: CNS is Def worth checking out
+14/04/21, 12:36 am - Bodybuilder: CNS is diff w/o a mentor
+14/04/21, 12:36 am - Bodybuilder: advisor
+14/04/21, 12:36 am - Astitv: ..
+14/04/21, 12:36 am - Astitv: Yeah
+14/04/21, 12:37 am - Astitv: It's too big
+14/04/21, 12:37 am - Astitv: ..
+14/04/21, 12:37 am - Astitv: Check this out it's good
+14/04/21, 12:37 am - Bodybuilder: https://www.cnsorg.org/index.php?option=com_jevents&Itemid=218&task=.
+14/04/21, 12:37 am - Bodybuilder: ofc I know we can reach out to some people.
+14/04/21, 12:37 am - Bodybuilder: After writing a proposal
+14/04/21, 12:38 am - Astitv: That's what we should do first
+14/04/21, 12:38 am - Astitv: We'll find the people that's not a problem
+14/04/21, 12:39 am - Bodybuilder: Yeah rigth
+14/04/21, 12:39 am - Astitv: Deadline closed 😕
+14/04/21, 12:39 am - Astitv: Cosyne is great but again it's next year so..
+14/04/21, 12:39 am - Bodybuilder: F
+14/04/21, 12:39 am - Astitv: Honestly I really wanna do CNS
+14/04/21, 12:40 am - Bodybuilder: LOL
+14/04/21, 12:41 am - Astitv: They do abstracts let's do that deadlines 15th may
+14/04/21, 12:41 am - Astitv: Max char limit 3500
+14/04/21, 12:41 am - Astitv: No biggie
+14/04/21, 12:42 am - Bodybuilder: Easy\
+14/04/21, 12:42 am - Bodybuilder: But that abs would have to be something novel
+14/04/21, 12:42 am - Bodybuilder: review papers wont be ACC
+14/04/21, 12:43 am - Astitv: We got over a month
+14/04/21, 12:43 am - Astitv: So you wanna focus on abstract or the paper
+14/04/21, 12:43 am - Astitv: ?
+14/04/21, 12:43 am - Astitv: Both sounds nice
+14/04/21, 12:44 am - Astitv: The paper should come easy if we do it right so let's do that first then turn to abstract on a new idea
+14/04/21, 12:44 am - Bodybuilder: paper for?
+14/04/21, 12:44 am - Bodybuilder: which one?
+14/04/21, 12:45 am - Astitv: The review paper
+14/04/21, 12:46 am - Bodybuilder: submittig where to?
+14/04/21, 12:46 am - Astitv: Tbd
+14/04/21, 12:47 am - Bodybuilder: Lets staartthe review we can pick up old ideas and apply new paradigmns in there or other applications.
+14/04/21, 12:47 am - Bodybuilder: Lets aim for abstract CNS though.
+14/04/21, 12:48 am - Astitv: I made a contents list check that out maybe a good starting point
+14/04/21, 12:48 am - Astitv: Definitely
+14/04/21, 12:49 am - Astitv: Let's do the paper and find a nice conference that's not too big on advisors and then focus properly on the abstract
+14/04/21, 12:49 am - Astitv: Try and get best abstract
+14/04/21, 12:49 am - Bodybuilder: yeah
+14/04/21, 12:49 am - Bodybuilder: sounds like a plan
+14/04/21, 12:49 am - Astitv: Hey I'm the man with the plan, no? 😁
+14/04/21, 12:51 am - Bodybuilder: ofc s1 or s2?
+14/04/21, 12:51 am - Astitv: ??
+14/04/21, 12:52 am - Bodybuilder: tv show
+14/04/21, 12:53 am - Astitv: Ohh..valley?
+14/04/21, 12:54 am - Bodybuilder: no
+14/04/21, 12:54 am - Bodybuilder: Man w/ a plan
+14/04/21, 12:54 am - Astitv: Ohh CBS?
+14/04/21, 12:56 am - Bodybuilder: Y
+14/04/21, 2:02 am - Bodybuilder: You up?
+14/04/21, 7:39 am - Bodybuilder: Format for meta?
+14/04/21, 7:39 am - Bodybuilder: https://tinytools.directory
+14/04/21, 8:29 am - Astitv: 🔥
+14/04/21, 8:29 am - Astitv: As in?
+14/04/21, 8:41 am - Bodybuilder: Something like this for frontend
+14/04/21, 8:41 am - Bodybuilder: Finishing breakfast will start working in sometime
+14/04/21, 8:42 am - Astitv: Sure
+14/04/21, 8:42 am - Astitv: I'll start @10
+14/04/21, 8:42 am - Bodybuilder: Cool no rush
+14/04/21, 8:43 am - Bodybuilder: We don’t have a deadline now but I’d like to get the general framework done today
+14/04/21, 9:06 am - Astitv: No rush doesn't mean no work right..let's try and get this done so we can get to the abstract
+14/04/21, 9:07 am - Bodybuilder: Yeah first lets setup the str then formulate the abstract which would be an extention of that str;.
+14/04/21, 9:08 am - Astitv: Str?
+14/04/21, 9:09 am - Bodybuilder: structure
+14/04/21, 9:09 am - Astitv: Oh right...I've written a structure, you checked that out?
+14/04/21, 9:11 am - Bodybuilder: I also wanna do a section of neuro-inspired ideas not only in ML but beyond
+14/04/21, 9:11 am - Bodybuilder: \in interdisciplinary fields
+14/04/21, 9:12 am - Astitv: So in every field or anyone in particular?
+14/04/21, 9:12 am - Bodybuilder: Design bio media arts
+14/04/21, 9:12 am - Bodybuilder: architecture
+14/04/21, 9:12 am - Bodybuilder: etc
+14/04/21, 9:13 am - Astitv: Sure let's do that under application section maybe
+14/04/21, 9:14 am - Bodybuilder: Reviewing now
+14/04/21, 9:14 am - Astitv: Update the doc as you go..
+14/04/21, 9:15 am - Bodybuilder: Will do.
+14/04/21, 10:57 am - Astitv: https://www.cshl.edu/research/neuroscience/neuroai/
+14/04/21, 11:00 am - Astitv: https://neurologycongress.com/program/scientific-sessions/neuroscience-and-artificial-intelligence
+14/04/21, 11:01 am - Astitv: http://www.iiisci.org/journal/CV$/sci/pdfs/iZA532FA.pdf
+14/04/21, 11:03 am - Bodybuilder: CSHL
+14/04/21, 11:03 am - Bodybuilder: ofc
+14/04/21, 11:03 am - Bodybuilder: Changes the org name can you check on your side.
+14/04/21, 11:04 am - Bodybuilder: On GithHub. Thanks!
+14/04/21, 11:04 am - Astitv: lemme chec
+14/04/21, 11:04 am - Astitv: yeah
+14/04/21, 11:04 am - Astitv: sweet
+14/04/21, 11:05 am - Bodybuilder: cool
+14/04/21, 11:05 am - Astitv: just M68 or something else with it?
+14/04/21, 11:05 am - Bodybuilder: Did you understand the meaning behind M68?
+14/04/21, 11:05 am - Astitv: afaik its a microprocessor
+14/04/21, 11:05 am - Bodybuilder: nope\
+14/04/21, 11:05 am - Astitv: then?
+14/04/21, 11:06 am - Bodybuilder: hint: related dp of the group
+14/04/21, 11:06 am - Astitv: no idea
+14/04/21, 11:07 am - Bodybuilder: keep thinking :)
+14/04/21, 11:07 am - Astitv: https://www.nasa.gov/feature/goddard/2017/messier-68/
+14/04/21, 11:07 am - Astitv: this?
+14/04/21, 11:07 am - Bodybuilder: no
+14/04/21, 11:09 am - Astitv: another hint?
+14/04/21, 11:11 am - Astitv: okay so does it refer to the original name for the first iPhone?
+14/04/21, 11:11 am - Bodybuilder: no its a very good hint.
+14/04/21, 11:11 am - Bodybuilder: 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+14/04/21, 11:11 am - Astitv: so I'm right?
+14/04/21, 11:11 am - Astitv: 😎😎😎
+14/04/21, 11:12 am - Bodybuilder: How didi you get that? DFoes not come upon a google seacrh .
+14/04/21, 11:12 am - Bodybuilder: yes!! The single most innovative product of our gen
+14/04/21, 11:12 am - Astitv: I have my ways..
+14/04/21, 11:12 am - Bodybuilder: oho you like the name?
+14/04/21, 11:12 am - Astitv: the hint was pretty good tho
+14/04/21, 11:13 am - Bodybuilder: Yeahb
+14/04/21, 11:13 am - Astitv: it's great
+14/04/21, 11:13 am - Bodybuilder: Yup, subtle
+14/04/21, 11:13 am - Bodybuilder: Paying respect
+14/04/21, 11:13 am - Astitv: when u made it m68 I had ideas of making it more like x68 after the x86 architecture
+14/04/21, 11:13 am - Bodybuilder: lol
+14/04/21, 11:14 am - Astitv: <Media omitted>
+14/04/21, 11:14 am - Bodybuilder: are
+14/04/21, 11:14 am - Bodybuilder: sirt
+14/04/21, 11:14 am - Bodybuilder: sir
+14/04/21, 11:14 am - Bodybuilder: GTA
+14/04/21, 11:14 am - Astitv: GTA for life
+14/04/21, 11:14 am - Bodybuilder: busted I guess
+14/04/21, 11:15 am - Astitv: leavemealone
+14/04/21, 11:18 am - Bodybuilder: chittychittybb
+14/04/21, 11:19 am - Astitv: CPKTNWT
+14/04/21, 11:19 am - Astitv: so what's the plan on the paper?
+14/04/21, 11:20 am - Astitv: https://neurologycongress.com/information/important-dates
+14/04/21, 11:21 am - Astitv: https://meetings.cshl.edu/meetingshome.aspx
+14/04/21, 2:21 pm - Bodybuilder: https://twitter.com/cnsorg/status/1382195050789093381?s=21
+14/04/21, 2:21 pm - Bodybuilder: working on it.
+14/04/21, 2:21 pm - Astitv: the paper or the plan?
+14/04/21, 2:22 pm - Bodybuilder: CNS paper?
+14/04/21, 2:23 pm - Astitv: CNS's is the abstract na?
+14/04/21, 2:23 pm - Astitv: haven't decided on the paper's publication right?
+14/04/21, 2:24 pm - Bodybuilder: No
+14/04/21, 2:24 pm - Bodybuilder: Today only sections finalise for the review papern
+14/04/21, 2:24 pm - Astitv: yeah alright
+14/04/21, 2:25 pm - Astitv: maybe also try and find potential confs to present in?
+14/04/21, 2:26 pm - Bodybuilder: I'll finish the sections first then confs Ik mostly which ones.
+14/04/21, 2:27 pm - Astitv: great!
+14/04/21, 2:27 pm - Astitv: I'll look into that in a moment..
+14/04/21, 2:28 pm - Bodybuilder: COol
+14/04/21, 2:39 pm - Astitv: Does the abstract look good or wanna rewrite it?
+15/04/21, 4:29 am - Bodybuilder: https://math.ucr.edu/home/baez/standard/standard_octonions_web.pdf
+15/04/21, 4:30 am - Bodybuilder: Rewrite
+15/04/21, 4:30 am - Bodybuilder: Parts looks good.
+15/04/21, 5:51 am - Bodybuilder: https://mathpsych.org
+15/04/21, 6:47 am - Bodybuilder: https://wp.nyu.edu/connexins/
+15/04/21, 8:11 am - Bodybuilder: https://mathpsych.org
+15/04/21, 8:35 am - Bodybuilder: https://ibro.org/horizons-webinar-1/
+15/04/21, 8:36 am - Bodybuilder: Topic
+IBRO Global Neuroscience Horizons Webinar 1
+Description
+Society journals - Supporting the success and growth of the global neuroscience community
+
+Learn how IBRO's society journals, Neuroscience and IBRO Neuroscience Reports, play an essential role in supporting the work and development of the global neuroscience community. 
+
+Featured Speakers
+
+Prof. Juan Lerma
+Editor-in-Chief, Neuroscience
+
+Prof. Y.S. Chan
+Editor-in-Chief, IBRO Neuroscience Reports
+
+Prof. James Olopade
+University of Ibadan
+IBRO alumnus (Nigeria)
+
+Dr. Angeles Salles
+Postdoctoral Fellow
+Johns Hopkins University
+IBRO alumna (Argentina)
+Time
+Apr 26, 2021 02:00 PM in Paris
+
+ Add to calendar
+Webinar ID
+891 5510 5302
+To Join the Webinar
+Join from a PC, Mac, iPad, iPhone or Android device:
+
+Please click this URL to join. https://us02web.zoom.us/w/89155105302?tk=TucVby874gnwXFFOiffENfyaZFSU06X5YiDXMtqZraM.DQIAAAAUwg7yFhZWVGhoVjNSNlN0LVhQcDZXVTBCM3dnAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=RTJ5THVPaDBNS2JFTHd0R2lLUkpTZz09&uuid=WN_m9xUa42kSiaBbRit5pB33Q
+15/04/21, 10:26 am - Astitv: Hey lets get some work done today...for real..
+15/04/21, 10:27 am - Astitv: Let's define clear and specific goals for the paper
+15/04/21, 10:27 am - Astitv: and then write a preliminary abstract based on that
+15/04/21, 10:27 am - Astitv: and define the sections that we can start working on individually
+15/04/21, 10:43 am - Bodybuilder: Sounds good, have a call scheduled now nmext order of business working on the sections.
+15/04/21, 11:11 am - Astitv: No rush...By today*
+15/04/21, 11:23 am - Bodybuilder: Sure we need to put some hustle into it anyways.
+15/04/21, 11:25 am - Astitv: Yup
+15/04/21, 11:26 am - Astitv: Gotta not rush it but not take it lightly either
+15/04/21, 11:26 am - Bodybuilder: Editing now
+15/04/21, 11:26 am - Astitv: I got classes till 1:30 will start working after that
+15/04/21, 11:26 am - Bodybuilder: No not half pregnant\
+15/04/21, 11:26 am - Bodybuilder: Ok
+15/04/21, 11:26 am - Astitv: Lol
+15/04/21, 11:26 am - Bodybuilder: I'll have soemthing up by then
+15/04/21, 11:27 am - Astitv: Great! Edit the contents section as you like...and maybe right your idea of what the paper should be somewhere
+15/04/21, 11:27 am - Bodybuilder: Will do.
+15/04/21, 11:27 am - Astitv: I'll start working on the abstract based on that and my objectives with iit
+15/04/21, 11:27 am - Astitv: It
+15/04/21, 1:47 pm - Bodybuilder: Yo
+15/04/21, 1:48 pm - Astitv: Sup!
+15/04/21, 1:48 pm - Bodybuilder: can you make a papers3 account and create a shared lib and invite me.
+15/04/21, 1:48 pm - Astitv: sure
+15/04/21, 1:49 pm - Astitv: wait its paid??
+15/04/21, 1:53 pm - Bodybuilder: signup w/ MUJID
+15/04/21, 1:53 pm - Bodybuilder: free for 1 mo
+15/04/21, 1:54 pm - Astitv: yeah
+15/04/21, 1:54 pm - Bodybuilder: Cool
+15/04/21, 2:02 pm - Astitv: what's ur email?
+15/04/21, 2:03 pm - Bodybuilder: exynos999@outlook.com
+15/04/21, 2:04 pm - Bodybuilder: Make sure to enableshare notes/comments.
+15/04/21, 2:07 pm - Astitv: Sent the mail
+15/04/21, 2:07 pm - Astitv: invite
+15/04/21, 2:08 pm - Astitv: I'll be active again in half an hr..
+15/04/21, 2:08 pm - Astitv: Add the files and stuff in the meantime if you want
+15/04/21, 2:11 pm - Bodybuilder: Cool
+15/04/21, 3:03 pm - Astitv: you added anything to the lib yet?
+15/04/21, 5:37 pm - Bodybuilder: No sorry just got out of a meeting.
+15/04/21, 5:38 pm - Astitv: No problemo
+16/04/21, 5:19 am - Bodybuilder: https://computervisionart.com
+16/04/21, 9:47 am - Astitv: 💸
+16/04/21, 11:25 am - Bodybuilder: Lol
+16/04/21, 11:24 pm - Astitv: Bhai ye Meta par Kya ho rha h
+16/04/21, 11:51 pm - Astitv: ???
+17/04/21, 5:35 am - Bodybuilder: Hey
+17/04/21, 10:49 am - Astitv: Hey
+17/04/21, 11:16 am - Astitv: We need 2 things for Meta, A code of conduct and to make the group invite-only, individually
+17/04/21, 11:31 am - Astitv: Dude what's going on?
+17/04/21, 11:32 am - Bodybuilder: Ask Mehul
+17/04/21, 11:32 am - Bodybuilder: He has my phone
+17/04/21, 11:32 am - Astitv: 🤦🏻‍♂️
+17/04/21, 11:50 am - Bodybuilder: Yeah
+17/04/21, 11:50 am - Bodybuilder: Also maybe having it unlimited spots on signal
+17/04/21, 11:51 am - Astitv: Anything to keep meta professional
+17/04/21, 11:53 am - Bodybuilder: btw add this. guy
+17/04/21, 11:53 am - Bodybuilder: +91 82995 58302
+17/04/21, 11:53 am - Bodybuilder: I'll come up w/ something, gimme some time.
+17/04/21, 11:54 am - Astitv: Sure
+17/04/21, 11:54 am - Bodybuilder: Keep sharing resources no reason to stop.
+17/04/21, 11:54 am - Astitv: What you wanna do about the people who came yesterday
+17/04/21, 11:54 am - Astitv: Lmoa
+17/04/21, 11:54 am - Bodybuilder: We good till we hit 256
+17/04/21, 11:54 am - Bodybuilder: Its cool
+17/04/21, 11:55 am - Astitv: But let's try to keep the group full of people who are actually interested in what we do
+17/04/21, 11:55 am - Astitv: And not some random peeps who are just there to fill spots
+17/04/21, 11:55 am - Bodybuilder: I want it to be open maybe these non-contributors are also using these resources who know.
+17/04/21, 11:56 am - Bodybuilder: We'll look into it after 256
+17/04/21, 11:56 am - Bodybuilder: How to scale.
+17/04/21, 11:56 am - Astitv: True I've got no issues with anyone who actually wants the resources, whether they contribute or not. Just shouldn't have people who are not there for either
+17/04/21, 11:57 am - Bodybuilder: Exactly I didn't see anyone spamming.
+17/04/21, 11:57 am - Bodybuilder: only prolly ankit lol
+17/04/21, 11:57 am - Astitv: Lol tu mehul ko phone Kyu de diya..😂
+17/04/21, 11:58 am - Astitv: That's my job
+17/04/21, 11:58 am - Bodybuilder: yes good spamming
+17/04/21, 11:58 am - Bodybuilder: he was w/ me lol
+17/04/21, 11:58 am - Astitv: Nvm
+17/04/21, 11:58 am - Astitv: You gonna work on the paper today?
+17/04/21, 11:59 am - Bodybuilder: gtg will dead w/ this later just keep sharing resources, for now will do the same.
+17/04/21, 11:59 am - Bodybuilder: Yeah after 4
+17/04/21, 11:59 am - Astitv: Cool
+17/04/21, 11:59 am - Bodybuilder: definitely today
+17/04/21, 11:59 am - Astitv: 👌🏻
+18/04/21, 8:54 am - Bodybuilder: Just hold tight for some time I'll get back to you on everything, meta, research and conference submissions etc.
+18/04/21, 9:04 am - Bodybuilder: https://sites.google.com/view/making-reviews-great-again
+18/04/21, 9:34 am - Astitv: You removed me from admin?
+18/04/21, 9:41 am - Bodybuilder: Yeah just for now while I do some management and housekeeping
+18/04/21, 9:45 am - Astitv: Looks to me like some people weren't very happy with me being an admin 🧐🤔🤭
+18/04/21, 9:46 am - Bodybuilder: Yeah those some people are no longer in the group
+18/04/21, 9:48 am - Astitv: Lmao 🤫
+18/04/21, 9:48 am - Astitv: I really don't mind. I just enjoy sharing good resources. Gonna continue doing that
+18/04/21, 9:54 am - Bodybuilder: Neither do I I'll add him once management and housekeeping is done; easier this way.
+18/04/21, 9:57 am - Astitv: Let's just try and keep the group exclusive to not let this happen again
+18/04/21, 9:58 am - Bodybuilder: I want to keep it open; lets try and have proper guidelines so there are no scaling issues like this one.\
+18/04/21, 9:59 am - Astitv: Yeah code of conduct also works provided we keep an eye out for the outlaws
+18/04/21, 10:00 am - Bodybuilder: Yeah gimme a sec I'm doing that right now, moving everything to GH so its transparent
+18/04/21, 10:01 am - Astitv: Alright...I'll be back in half an hr. Let's make up a coc today if won't be much of a hassle
+18/04/21, 10:02 am - Bodybuilder: https://github.com/M-68/meta_resource
+18/04/21, 10:02 am - Bodybuilder: Done yeah make PR's here and we can work on it using an open-source philosophy.
+18/04/21, 10:03 am - Bodybuilder: Do you remember where the template code of conduct that was shared is?
+18/04/21, 10:04 am - Astitv: Nope was a long time ago don't know
+18/04/21, 10:25 am - Bodybuilder: Let me know if you find it was a good template!
+18/04/21, 10:26 am - Bodybuilder: got it no wories
+18/04/21, 10:29 am - Bodybuilder: https://openopensource.org
+18/04/21, 10:30 am - Bodybuilder: whats the best way to integrate the airtable on GH any ideas?
+18/04/21, 10:45 am - Bodybuilder: https://www.makeareadme.com
+18/04/21, 10:45 am - Bodybuilder: Updated
+18/04/21, 10:50 am - Astitv: The zapier API. I looked into it a few weeks back it's js based and pretty easy
+18/04/21, 10:50 am - Astitv: On the phone rn will look into everything once I get on the mac
+18/04/21, 10:51 am - Bodybuilder: Cool.
+18/04/21, 10:51 am - Astitv: Dude Ankit is fucking messaging me like hell I'm fed up of this guy
+18/04/21, 10:52 am - Bodybuilder: Yeah I removed him fuck it, block or ignore he's not worth the trouble.
+18/04/21, 10:52 am - Astitv: Kk. Gonna look into the gh later and see what I can build
+18/04/21, 10:53 am - Bodybuilder: Yeah I've updated a bit will add some context to the group after we update the GH.
+18/04/21, 10:53 am - Bodybuilder: I'll work on the research manuscript now.
+18/04/21, 10:54 am - Astitv: Done.
+18/04/21, 10:54 am - Astitv: Update the papers lib as you do
+18/04/21, 10:55 am - Bodybuilder: https://trello.com/b/Ii47N8Aa/m-86
+18/04/21, 10:55 am - Bodybuilder: Will do
+18/04/21, 11:23 am - Bodybuilder: https://isoft.acm.org/seri2021/
+18/04/21, 4:18 pm - Bodybuilder: https://elifesciences.org/articles/48175?utm_source=twitter&utm_medium=social
+19/04/21, 10:13 am - Bodybuilder: @917903238656 Lets go after this,
+19/04/21, 10:14 am - Astitv: Let's
+19/04/21, 10:14 am - Astitv: Go
+19/04/21, 10:15 am - Bodybuilder: Yeahh
+19/04/21, 10:15 am - Bodybuilder: Good reading as well.
+19/04/21, 10:18 am - Astitv: I'm gonna to to get onto the important stuff today... sections, abstract, templates, and maybe intri
+19/04/21, 10:18 am - Astitv: Intro
+19/04/21, 10:19 am - Bodybuilder: Yeah I have some work then gotta get to it.
+19/04/21, 10:28 am - Astitv: Same here
+19/04/21, 11:32 am - Bodybuilder: https://www.researchskills.net/
+19/04/21, 12:53 pm - Astitv: apart from my contributions, there are literally 3 other ones in the airtable submitted view, one from each of mehul, vikram and ankit lmao 😂😂
+19/04/21, 12:53 pm - Bodybuilder: lol I merged many previuous ones
+21/04/21, 1:07 pm - Bodybuilder: Ignore Ankit.
+21/04/21, 1:07 pm - Bodybuilder: Always pseudo-buzy
+21/04/21, 1:09 pm - Astitv: Busy thinking about what to do
+21/04/21, 1:10 pm - Bodybuilder: yeah and do. nothing
+21/04/21, 1:11 pm - Astitv: we should really make a comprehensive TODO list for the work @M68 and assign them to people who would actually do them
+21/04/21, 1:11 pm - Astitv: that way we can all get more done and be efficient while we're at it
+21/04/21, 1:12 pm - Bodybuilder: Started that on thehttps://github.com/M-68/meta_resource/projects
+21/04/21, 1:12 pm - Bodybuilder: https://github.com/M-68/meta_resource/projects
+21/04/21, 1:14 pm - Astitv: 👌🏼
+21/04/21, 1:16 pm - Astitv: Just create a list of the specific tasks, like website dev, airtable-gh pipelining, whatsapp resource extraction, creating specific mission statements and goals for the M68 org and some projects in that direction, etc.
+21/04/21, 1:34 pm - Astitv: commented
+21/04/21, 2:41 pm - Bodybuilder: Updated
+21/04/21, 2:41 pm - Bodybuilder: https://github.com/M-68/meta_resource
+21/04/21, 2:41 pm - Bodybuilder: Thoughts @917903238656
+21/04/21, 2:46 pm - Astitv: 🔥🔥🔥🔥🔥🔥
+21/04/21, 2:46 pm - Astitv: Just need to change one thing, put the connect with us below code of conduct but that's fine
+21/04/21, 2:54 pm - Bodybuilder: done
+21/04/21, 4:40 pm - Bodybuilder: I'll work on this now lol
+21/04/21, 4:41 pm - Astitv: yeah let's do that we've been putting this off in way it seems..
+21/04/21, 4:41 pm - Bodybuilder: Yeah
+22/04/21, 9:28 pm - Bodybuilder: https://twitter.com/neuralreckoning/status/1385261195343679489?s=21
+22/04/21, 9:30 pm - Bodybuilder: https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-17-systems-neuroscience-lab-spring-2013/
+22/04/21, 10:21 pm - Astitv: 👌
+24/04/21, 9:35 am - Bodybuilder: Got time today to work on some things
+24/04/21, 10:36 am - Astitv: Won't have much time this weekend but I'll try to squeeze in some work when i can..
+24/04/21, 10:39 am - Bodybuilder: cool
+24/04/21, 9:27 pm - Bodybuilder: Lets map out deadlines for submissions?
+24/04/21, 9:29 pm - Astitv: Tomorrow's codejam I'll get right on this after that and let's do this. It'd be great if you could find some conferences or journals where we might be submitting to so that we'll have a solid goal and can act objectively on it and not like a hobby ig
+24/04/21, 9:30 pm - Bodybuilder: Exactly no BS we have a hard timeline
+24/04/21, 9:30 pm - Astitv: Let's do the basic things first and then start work on each of the sections in order
+24/04/21, 9:30 pm - Astitv: Eggjactly
+24/04/21, 9:31 pm - Bodybuilder: I'll finish that today.
+24/04/21, 9:32 pm - Astitv: We can start divving up the work maybe you'll start gathering papers to take ideas and concepts from and I'll get to the abstract and intro and other things
+24/04/21, 9:32 pm - Astitv: If it's possible maybe you could make a concrete contents list and then we'll discuss and make minor changes to it before we start with each one of them
+24/04/21, 9:33 pm - Astitv: You could refer the one i made in the Dropbox and change whatever you like
+24/04/21, 9:34 pm - Bodybuilder: Yeah will do
+24/04/21, 9:34 pm - Bodybuilder: Add papers to the shared library.
+24/04/21, 9:34 pm - Bodybuilder: Yeah will do.
+24/04/21, 9:58 pm - Astitv: 👍🏻
+26/04/21, 2:20 pm - Bodybuilder: yeah
+26/04/21, 2:20 pm - Bodybuilder: Have time this afternoon-evening?
+26/04/21, 2:21 pm - Astitv: I'll have time in the evening I think rn have some coursework to finish
+26/04/21, 2:21 pm - Astitv: you started with the intro and contents and stuff?
+26/04/21, 2:22 pm - Bodybuilder: Yeah started the review will add the changes and papers to the lib shortly.
+26/04/21, 2:23 pm - Astitv: great I'll take a look and start working ASAP
+26/04/21, 2:23 pm - Bodybuilder: Yeah need to change a lot;don't be surprised if there are a lot of comments/changes.
+26/04/21, 2:25 pm - Astitv: why would I be it's all about iterative optimization on our work isn't it.
+26/04/21, 2:26 pm - Bodybuilder: Love it!
+26/04/21, 2:26 pm - Bodybuilder: btw can you check out this guy who is interested on working on the review?
+26/04/21, 2:27 pm - Bodybuilder: If/when we need to scale the number of authors...
+26/04/21, 2:27 pm - Bodybuilder: This message was deleted
+26/04/21, 2:27 pm - Bodybuilder: https://www.linkedin.com/in/pratham-kumar-021371176/
+26/04/21, 2:28 pm - Astitv: checkout as in?
+26/04/21, 2:28 pm - Bodybuilder: if he'd be a good fit/ this guy any good?
+26/04/21, 2:29 pm - Astitv: does look like he has done a couple of good things but not sure if he'll be good for the kind of paper that ours is with both neuro as well as RL involved
+26/04/21, 2:29 pm - Astitv: have you talked to him over text or something?
+26/04/21, 3:03 pm - Bodybuilder: Very briefly.
+26/04/21, 3:05 pm - Bodybuilder: Can get on a call w/ him and start working in // on other proposals which we had.
+26/04/21, 3:05 pm - Bodybuilder: More output.
+26/04/21, 3:24 pm - Astitv: sure sounds good
+27/04/21, 4:18 pm - Bodybuilder: Ignore @ankit
+27/04/21, 5:42 pm - Astitv: <Media omitted>
+28/04/21, 11:17 am - Bodybuilder: yo
+28/04/21, 2:48 pm - Astitv: I'm ded
+28/04/21, 2:49 pm - Bodybuilder: F
+29/04/21, 2:39 am - Bodybuilder: yo
+29/04/21, 2:39 am - Bodybuilder: https://johnhw.github.io/umap_primes/index.md.html
+29/04/21, 2:39 am - Bodybuilder: lets do something like this
+29/04/21, 2:40 am - Bodybuilder: create a novel dim reduction technique
+29/04/21, 10:35 am - Astitv: Sure we could do the Fourier transform of these numbers by representing their factors as frequencies and analyse the resulting composite signals and how it's properties vary for different numbers and also create audio-visual spectrograms
+29/04/21, 10:36 am - Astitv: Would be a lot of fun
+29/04/21, 6:25 pm - Bodybuilder: https://www.humanbrainproject.eu/en/follow-hbp/news/human-brain-project-researchers-contribute-articles-on-neuromorphic-computing-to-ercim-news/?fbclid=IwAR3I7uLl81DKKq-GO1OHLJpMHe_SGEYwhl_z_FQ9Cp8ScmAkGAbdsxD8vbs
+29/04/21, 10:08 pm - Astitv: https://youtu.be/Qow8pIvExH4
+30/04/21, 11:05 pm - Astitv: Yo
+30/04/21, 11:05 pm - Astitv: What's the plan..
+30/04/21, 11:18 pm - Bodybuilder: Will update in the night
+30/04/21, 11:44 pm - Astitv: I have an idea to get started and get some work done because without a clear goal in mind we'll just end up procrastinating
+20/05/21, 6:25 am - Bodybuilder: https://www.crosslabs.org/journal
+20/05/21, 3:44 pm - Astitv: Man we got a lot of stuff going on but nothing concrete
+20/05/21, 3:44 pm - Astitv: Should do something about thag
+20/05/21, 3:44 pm - Astitv: That
+20/05/21, 3:44 pm - Astitv: Cut back on stuff or make a priority todo list and then work on shit
+20/05/21, 10:03 pm - Bodybuilder: Yeah
+01/11/21, 1:12 pm - Bodybuilder: This too

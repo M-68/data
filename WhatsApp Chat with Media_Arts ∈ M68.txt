@@ -1,0 +1,676 @@
+6/15/21, 2:07 PM - +91 78689 12384: What areas of Computer Graphics are y'all more focused on?
+6/15/21, 2:10 PM - +91 78689 12384: Anyone work on game engines / game dev?
+6/15/21, 2:17 PM - V: None
+6/15/21, 2:17 PM - Mehul Srivastava: I'm into generative art
+6/15/21, 2:17 PM - V: I love to study what piques my interest
+6/15/21, 2:22 PM - +91 78689 12384: Nice, you mean stuff like demoscenes, visualizers, shaders, etc? Pretty cool
+6/15/21, 2:22 PM - +91 78689 12384: So what piques your interest
+6/15/21, 2:23 PM - V: Basically level design art and artificial intelligence in videogames
+6/15/21, 2:23 PM - V: And general problems with videogame design
+6/15/21, 2:26 PM - +91 78689 12384: Nice! First person I have interacted with who is aware about how level design / videogame mechanics design is an entire topic on its own. Many people just view gamr dev as a big umbrella with the big task being programming but literally every aspect of it is an entire field on its own
+6/15/21, 2:26 PM - +91 78689 12384: Heck there is an entire dept for menus design
+6/15/21, 2:26 PM - +91 78689 12384: Or for sound design
+6/15/21, 2:27 PM - V: Like there is this one problem with open world design in videogames of management  gamers interest while balancing freedom of choice
+6/15/21, 2:27 PM - V: If you give too much freedom their is the problem of game not having structure
+6/15/21, 2:27 PM - Rishabh: Explosion artist
+6/15/21, 2:27 PM - Rishabh: Lol
+6/15/21, 2:27 PM - Rishabh: GMTK
+6/15/21, 2:28 PM - V: If you restrain too much your game doesn't feel like open world
+6/15/21, 2:29 PM - V: I am pretty sure someone who looks at job postings at any major studio would be able to figure this out that videogame dev is not just programming
+6/15/21, 2:30 PM - V: Maxpayne
+6/15/21, 2:31 PM - +91 78689 12384: Yeah I also got to know more about it through this book that basically tells the story behind the development of around 10 games, some AAA, some indie
+6/15/21, 3:13 PM - Arinjay joined using this group's invite link
+6/15/21, 3:22 PM - Mehul Srivastava: https://youtu.be/Oct4Oi-KfVQ
+6/15/21, 5:56 PM - V: https://eddostern.com/
+6/15/21, 5:58 PM - V: https://unity3d.com/real-time-rendering-3d
+6/15/21, 5:59 PM - Rishabh: https://youtu.be/lFEIUcXCEvI
+6/15/21, 6:00 PM - Rishabh: https://youtu.be/60FcD2O2Skg
+6/15/21, 6:04 PM - V: macquete also
+6/15/21, 6:18 PM - Rishabh: Which?
+6/15/21, 6:19 PM - V: https://gracefuldecay.com/
+6/15/21, 6:25 PM - Rishabh: Fuck yes love these games
+6/15/21, 6:25 PM - Rishabh: Not the same old BS Battlefield 2042
+6/15/21, 6:33 PM - Gss: u cry cause no RTX to fry
+6/15/21, 6:33 PM - Gss: 😎
+6/15/21, 6:34 PM - Rishabh: This was created by a single guy!!
+6/15/21, 6:42 PM - V: is this more of a technical achivement or is it a game design thing
+6/15/21, 6:42 PM - V: either way this is awesome
+6/15/21, 6:43 PM - V: kyunki biggest game which had adopted non euclidian properties in games is portal
+6/15/21, 6:44 PM - V: but source engine at that time wasn't build around the non euclidian geometry
+6/15/21, 6:48 PM - Rishabh: There are no non Euclidean game enginess
+6/15/21, 6:48 PM - Rishabh: Both all everything game design technically, mechanics
+6/15/21, 6:50 PM - V: There is one but it is in development you must have seen the video
+6/15/21, 6:51 PM - Rishabh: https://youtu.be/P_DeN2B8VR8
+6/15/21, 6:51 PM - Rishabh: Which?
+6/15/21, 6:59 PM - V: Yes
+6/15/21, 7:02 PM - Rishabh: https://youtu.be/fBtX0S2J32Y
+6/15/21, 7:02 PM - Rishabh: Duck
+6/15/21, 7:02 PM - Rishabh: Fuck
+6/15/21, 7:02 PM - Rishabh: Which one?
+6/15/21, 7:03 PM - V: This one bruh
+6/15/21, 7:25 PM - V: https://youtu.be/RQP-5R75ce0
+6/15/21, 9:35 PM - +91 83558 14130: wtfuck
+6/15/21, 9:36 PM - +91 83558 14130: 16 times more details 😂
+6/15/21, 10:02 PM - Rishabh: What was not clear lol
+6/15/21, 11:10 PM - V: https://youtu.be/1hHfmy8zGdw
+6/15/21, 11:11 PM - V: Just damn
+6/15/21, 11:12 PM - V: @919717945717
+6/15/21, 11:14 PM - Mehul Srivastava: Bhai this is beautiful af
+6/15/21, 11:15 PM - V: This is zelda obviously
+6/15/21, 11:15 PM - Mehul Srivastava: Ofcc
+6/15/21, 11:15 PM - +91 83558 14130: Zelda sounstrack is good
+6/15/21, 11:15 PM - V: Ok
+6/15/21, 11:15 PM - V: Next year is lit
+6/15/21, 11:16 PM - +91 83558 14130: Daamn looks good
+6/15/21, 11:16 PM - V: Halo  zelda and god of war releasing at roughly same time
+6/15/21, 11:17 PM - +91 83558 14130: 🥵
+6/15/21, 11:17 PM - +91 83558 14130: What about Battlefield?
+6/15/21, 11:17 PM - V: We are talking real good games here
+6/15/21, 11:17 PM - V: Not some Ea multiplayer
+6/15/21, 11:18 PM - +91 83558 14130: VID-20210615-WA0053.mp4 (file attached)
+6/15/21, 11:18 PM - +91 83558 14130: Bruh if you actually look into BF it's fucking difficult game to make
+6/15/21, 11:18 PM - V: Which game isn't
+6/15/21, 11:19 PM - +91 83558 14130: with so much happening like destruction + tanks + guns + air combat it's fucking difficult to balance the multiplayer
+6/15/21, 11:19 PM - V: Activision does that every year
+6/15/21, 11:19 PM - +91 83558 14130: 😂😂😂
+6/15/21, 11:19 PM - V: And better
+6/15/21, 11:19 PM - +91 83558 14130: Lmao
+6/15/21, 11:19 PM - +91 83558 14130: Call me up when you can do a Rendezook in COD
+6/15/21, 11:19 PM - V: I am not
+6/15/21, 11:20 PM - V: i play cod for the campaign
+6/15/21, 11:20 PM - V: Campaign is always good
+6/15/21, 11:20 PM - V: Short and crisp
+6/15/21, 11:20 PM - +91 83558 14130: Han then your comparison isn't fair really
+6/15/21, 11:21 PM - +91 83558 14130: Even if we compare their multiplayers , BF has had 10X larger maps lol
+6/15/21, 11:21 PM - V: Maybe but idc
+6/15/21, 11:21 PM - V: I care about this
+6/15/21, 11:21 PM - V: How is nintendo pulling this of on switch
+6/15/21, 11:22 PM - V: This is almost unimaginable
+6/15/21, 11:22 PM - Rishabh: Not at all they have all the engine and assets mostly recycled for all of the games relatively simpler to make sequels
+6/15/21, 11:22 PM - Rishabh: Story is mediocre
+6/15/21, 11:23 PM - Rishabh: Platform ready to publish
+6/15/21, 11:23 PM - Rishabh: Writing and design is almost the same
+6/15/21, 11:23 PM - V: Cod ww2 and black ops 3
+6/15/21, 11:23 PM - Rishabh: Weapon design same
+6/15/21, 11:23 PM - Rishabh: Sound design same
+6/15/21, 11:23 PM - Rishabh: Want me to go on lol
+6/15/21, 11:23 PM - Rishabh: Yeah those leaps are commendable
+6/15/21, 11:24 PM - V: Battlefield has made the same leaps but downward
+6/15/21, 11:24 PM - V: Battlefield 2 masterpiece
+6/15/21, 11:24 PM - V: Battlefield 4 good
+6/15/21, 11:24 PM - V: Battlefield hardline 😂😂😂
+6/15/21, 11:24 PM - V: And finally battlefield 1 and Battlefield 5
+6/15/21, 11:24 PM - V: Lol
+6/15/21, 11:25 PM - Rishabh: 1 was good
+6/15/21, 11:25 PM - Rishabh: 3 and 4 were too
+6/15/21, 11:25 PM - V: Its a world war 1 shooter lol
+6/15/21, 11:25 PM - Rishabh: Everything else
+6/15/21, 11:26 PM - V: I have finished the abysmal campaign of battlefield 1
+6/15/21, 11:26 PM - Rishabh: I think I’m gonna download and play antichamber today
+6/15/21, 11:26 PM - V: I don't know why the fuck is the story disjoint
+6/15/21, 11:26 PM - Rishabh: Heela awesome game
+6/15/21, 11:27 PM - Rishabh: Disco Elysian came out on PS?
+6/15/21, 11:27 PM - V: Yes
+6/15/21, 11:27 PM - Rishabh: Cool cool what’s the price?
+6/15/21, 11:27 PM - V: 2500
+6/15/21, 11:27 PM - Rishabh: Fair
+6/15/21, 11:27 PM - V: Tell me when you play it
+6/15/21, 11:27 PM - +91 83558 14130: Csnt compare 1 and 5
+6/15/21, 11:27 PM - +91 83558 14130: V was shit
+6/15/21, 11:28 PM - V: I am saving money for far cry 6
+6/15/21, 11:28 PM - Rishabh: Yes
+6/15/21, 11:28 PM - +91 83558 14130: Yea V was shit
+6/15/21, 11:28 PM - Rishabh: Yup
+6/15/21, 11:29 PM - +91 83558 14130: This year there's a rumour that DICE La is bringing a game mode where they will bring bacl maps from older BF 2/BF3/4
+6/15/21, 11:29 PM - V: But still no point comparing battlefield with zelda lmao
+6/15/21, 11:29 PM - V: Zelda is legend
+6/15/21, 11:29 PM - +91 83558 14130: I think the main thing is there's just a hella variety of ways to kill XD
+6/15/21, 11:29 PM - Rishabh: Medal of Honor was the shit
+6/15/21, 11:30 PM - Rishabh: Fuck everything else
+6/15/21, 11:30 PM - V: Yes shit which they killed
+6/15/21, 11:30 PM - +91 83558 14130: BfV was wannabe
+6/15/21, 11:30 PM - Rishabh: Yup
+6/15/21, 11:30 PM - +91 83558 14130: Ocarina of Time ka soundtrack sunna hai?
+6/15/21, 11:30 PM - Rishabh: No
+6/15/21, 11:31 PM - +91 83558 14130: Nice
+6/15/21, 11:33 PM - V: Lol have you heard botw soundtrack
+6/15/21, 11:33 PM - +91 83558 14130: botw?
+6/15/21, 11:33 PM - V: Breath of the wild
+6/15/21, 11:33 PM - V: Zelda 2017
+6/15/21, 11:34 PM - +91 83558 14130: Unfortunately no :(
+6/15/21, 11:34 PM - V: Listen it then
+6/15/21, 11:34 PM - +91 83558 14130: Sure
+6/16/21, 2:14 AM - Rishabh: https://www.youtube.com/watch?v=PMXf0e8n2Oc
+6/16/21, 2:21 AM - Rishabh: https://www.youtube.com/watch?v=Mos1B-ghzeI
+6/16/21, 2:25 AM - Rishabh: https://youtu.be/HWslhmMaRQw
+6/16/21, 2:28 AM - V: Are classic
+6/16/21, 2:33 AM - Rishabh: ofc
+6/16/21, 2:34 AM - Rishabh: now watching strand review
+6/16/21, 2:34 AM - Rishabh: https://youtu.be/ujcC1_Ur9RY
+6/16/21, 2:34 AM - V: Only dunkey for reviews gameranx for structured ones
+6/16/21, 2:37 AM - Rishabh: Death Stranding Environment Design is next level
+6/16/21, 2:37 AM - Rishabh: take
+6/16/21, 2:37 AM - Rishabh: https://youtu.be/ukqZ5VOoK5s
+6/16/21, 3:37 AM - Rishabh: https://www.youtube.com/watch?v=iTBW6jbHgX0
+6/16/21, 10:41 AM - V: Strand type design
+6/16/21, 10:42 AM - V: It uses a fork of decima engine
+6/16/21, 10:51 AM - V: https://www.unrealengine.com/en-US/spotlights/monster-on-the-move-how-asc-pushed-ue5-early-access-animation-tools-to-the-limit
+6/16/21, 11:12 AM - V: https://www.unrealengine.com/en-US/events/unreal-build-broadcast-live-events
+6/16/21, 2:11 PM - Rishabh: https://youtu.be/FCeEvQ68jY8
+6/17/21, 2:02 PM - +91 91652 57248 joined using this group's invite link
+6/18/21, 2:13 AM - Rishabh: https://www.youtube.com/watch?v=mMwN4_zVNJc
+6/18/21, 2:13 AM - Rishabh: @919315996705 Remember this game?
+6/18/21, 2:14 AM - V: Ps3 memories
+6/18/21, 2:20 AM - Rishabh: Yup this game was  interesting don't see games like these days.
+6/18/21, 2:24 AM - V: Lol quantic dream is quantic dream
+6/18/21, 2:24 AM - V: Detroit become human was their last game
+6/18/21, 2:24 AM - Rishabh: True all their games are top notch!
+6/18/21, 2:24 AM - V: Cant wait to see whats next
+6/18/21, 2:25 AM - Rishabh: Yup
+6/18/21, 2:25 AM - V: Actually supermassive games is cool
+6/18/21, 2:25 AM - Rishabh: Sekiro in development
+6/18/21, 2:25 AM - +91 91652 57248: mann that shit was hard af
+6/18/21, 2:26 AM - +91 91652 57248: sekiro's gameplay mechanics were not beginner friendly
+6/18/21, 2:26 AM - V: It was easy than ds3
+6/18/21, 2:26 AM - Rishabh: Yeah.
+6/18/21, 2:26 AM - +91 91652 57248: Ok thats true😂
+6/18/21, 2:26 AM - V: You figure out the parrying you figure out the game
+6/18/21, 2:27 AM - Rishabh: Yup.
+6/18/21, 2:27 AM - Rishabh: Had good mechanics though.
+6/18/21, 2:27 AM - V: Cant wait for elden ring
+6/18/21, 2:27 AM - Rishabh: Yup anything else worth checking out @E3?
+6/18/21, 2:27 AM - V: Stalker 2
+6/18/21, 2:27 AM - Rishabh: Nah its ok.
+6/18/21, 2:28 AM - +91 91652 57248: Ratch and Clank just released a few days ago as well
+6/18/21, 2:28 AM - +91 91652 57248: might wanna check that out
+6/18/21, 2:28 AM - V: Too expensive
+6/18/21, 2:28 AM - +91 91652 57248: I've heard some very good things about that game
+6/18/21, 2:28 AM - +91 91652 57248: Ohh the graphics are ❤️❤️❤️
+6/18/21, 2:29 AM - V: Can't pay 5k for any game
+6/18/21, 2:29 AM - +91 91652 57248: yea thats true
+6/18/21, 2:29 AM - +91 91652 57248: but in all fairness no new games are gonna be cheap
+6/18/21, 2:29 AM - Rishabh: Y
+6/18/21, 2:30 AM - Rishabh: @919315996705 knows what kind of games I'm talking about...
+6/18/21, 2:30 AM - Rishabh: Thats fine.
+6/18/21, 2:30 AM - V: Owning them sure renting not so expensive
+6/18/21, 2:30 AM - Rishabh: Ps+
+6/18/21, 2:30 AM - V: Yes
+6/18/21, 2:30 AM - Rishabh: PS+
+6/18/21, 2:31 AM - +91 91652 57248: Yea maybe, i've never rented a game so no experience there
+6/18/21, 2:33 AM - Rishabh: I'm concerned about FC6 honestly.
+6/18/21, 2:33 AM - Rishabh: https://www.youtube.com/watch?v=FCeEvQ68jY8
+6/18/21, 2:34 AM - V: Its looking good ,graphics are secondry in the game
+6/18/21, 2:35 AM - V: I will buy it for the fun and Giancarlo Esposito
+6/18/21, 2:37 AM - Rishabh: Its Ubisoft its not in any rank.
+6/18/21, 2:40 AM - Rishabh: https://tabreturn.github.io
+6/18/21, 2:42 AM - V: It was odyssey which was better than average ac it was considered alongside gow
+6/18/21, 2:44 AM - V: As one of the game of the year
+6/18/21, 2:44 AM - V: Plus far cry 4 was op
+6/18/21, 2:45 AM - Rishabh: Yes!!!
+6/18/21, 2:45 AM - V: more than anything game is fun
+6/18/21, 2:45 AM - V: If game is not fun why bother
+6/18/21, 2:51 AM - Rishabh: Yeah and also Hindi curses.
+6/18/21, 2:59 AM - V: Yes
+6/18/21, 3:00 AM - V: Kyrat is the most relatable open world
+6/18/21, 3:02 AM - Rishabh: Facs
+6/18/21, 11:28 AM - V: https://www.instagram.com/tv/CQPCaLsJI2O/?utm_medium=share_sheet
+6/18/21, 11:51 AM - V: https://youtu.be/Z-rXyIDc9rk
+6/18/21, 11:52 AM - V: https://link.medium.com/IG7uPe7lbhb
+6/18/21, 11:57 AM - V: https://www.gamasutra.com/blogs/DoctorLudos/20200609/363179/Making_a_SNES_game_in_2020.php
+6/18/21, 11:57 AM - V: https://en.m.wikibooks.org/wiki/Super_NES_Programming
+6/18/21, 3:18 PM - Rishabh: @919315996705 https://www.reddit.com/r/TheBlueBoxConspiracy/comments/o1s5oy/here_are_all_the_possible_hints_that_blue_box/
+6/18/21, 3:18 PM - V: I know that
+6/18/21, 3:19 PM - V: Its hideo kojimas M.O
+6/18/21, 3:19 PM - V: But that means no more strand type games 😔
+6/18/21, 3:19 PM - Rishabh: Damn the teaser was shit.
+6/18/21, 3:19 PM - Rishabh: F
+6/18/21, 3:21 PM - V: Shit in what sense it was in engine choppy footage
+6/18/21, 3:21 PM - V: It is like pre pre pre alpha
+6/18/21, 3:23 PM - Rishabh: https://imgur.com/a/NX8avQs
+6/18/21, 3:23 PM - Rishabh: Why show it then.
+6/18/21, 3:26 PM - V: Hype
+6/18/21, 3:26 PM - Rishabh: Lets go Vikaram
+6/18/21, 3:26 PM - Rishabh: Gewt started https://twitter.com/bbgamestudios/status/1405673022791499785?s=21
+6/18/21, 3:30 PM - Rishabh: Lol https://twitter.com/goodhunterbl/status/1405676279546982400?s=21
+6/18/21, 3:30 PM - Rishabh: @919315996705
+6/18/21, 3:35 PM - V: Any Guesses
+6/18/21, 3:36 PM - Rishabh: Best level usrr ex
+6/18/21, 3:38 PM - V: Umm i am thinking blue is a reference to card board box system in mgs game
+6/18/21, 3:39 PM - V: PlayStation fandom 😂
+6/18/21, 3:40 PM - V: Blue must the name of organization in the new game
+6/18/21, 3:40 PM - V: Like fox
+6/18/21, 3:40 PM - V: Xof
+6/18/21, 3:40 PM - V: Aur diamond dogs
+6/18/21, 3:42 PM - V: In general blue also refers to allies of united states
+6/18/21, 3:42 PM - V: And we all know fox and xof are all us based organizations
+6/18/21, 3:43 PM - Rishabh: or PS lol
+6/18/21, 3:43 PM - Rishabh: I hope it is PT
+6/18/21, 3:43 PM - V: Nahi they have said it ki voh ps5 exclusive hai
+6/18/21, 3:43 PM - +91 83558 14130: so this basically kojinma playing around ?
+6/18/21, 3:43 PM - +91 83558 14130: yea it's an exclusive
+6/18/21, 3:43 PM - V: It his MO
+6/18/21, 3:43 PM - Rishabh: SO?
+6/18/21, 3:44 PM - V: So blue cant mean sony
+6/18/21, 3:44 PM - Rishabh: PS studios
+6/18/21, 3:45 PM - V: Nope Blue doesn't mean ps studio also
+6/18/21, 11:59 PM - V: https://youtube.com/playlist?list=PLTPQEx-31JXhij1mLMFnxE8FgNQr3Al_j
+6/19/21, 12:02 AM - V: https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014/
+6/19/21, 12:39 AM - Rishabh: Yes shame they don’t have any newer offerings for the course.
+6/19/21, 12:41 AM - V: One of the rarest examples of a university taught course on videogame developement a-z
+6/19/21, 12:42 AM - V: Only thing i can think this close enough is gsd course
+6/19/21, 12:45 AM - Rishabh: I see
+6/19/21, 12:51 AM - V: Rip legend Milkha Singh
+6/19/21, 12:53 AM - +91 78689 12384: RIT, USC have good game dev courses but I guess not available to the public
+6/19/21, 1:04 AM - Rishabh: Yes
+6/19/21, 1:05 AM - Rishabh: SVA has some good ones if you’re willing to pay
+6/19/21, 1:29 PM - V: lol @919082216009 mbg was right
+6/19/21, 1:29 PM - V: it really is best level user experience
+6/19/21, 1:35 PM - Rishabh: Lol
+6/21/21, 12:49 AM - Rishabh: https://80.lv/articles/tutorial-creating-ghibli-style-clouds-in-blender/
+6/21/21, 1:13 AM - Rishabh: https://www.unrealengine.com/en-US/blog/learn-game-development-for-free-with-unreal-online-learning
+6/21/21, 1:14 AM - Rishabh: @919315996705
+6/21/21, 4:29 AM - Rishabh: https://genclub.club/
+6/21/21, 10:12 AM - Rishabh: Solid videos
+6/21/21, 10:13 AM - Rishabh: https://www.youtube.com/channel/UCuHVjteDW9tCb8QqMrtGvwQ
+6/21/21, 12:12 PM - +91 83558 14130: Checkout Cherno on YT
+6/21/21, 12:23 PM - V: Thanks for stating the obvious
+6/21/21, 12:24 PM - Rishabh: Lol
+6/21/21, 12:24 PM - Rishabh: Thanks for sharing that...
+6/21/21, 12:25 PM - V: Yes bro
+6/21/21, 12:29 PM - Rishabh: Now gonna start listing randomly
+6/21/21, 12:29 PM - Rishabh: Brackeys
+6/21/21, 12:29 PM - Rishabh: Mumbai Gallies
+6/21/21, 12:30 PM - V: Gullies*
+6/21/21, 12:30 PM - V: You said it was an ace attorney clone
+6/21/21, 12:30 PM - V: Capcom literally announced 2 ace attorney available for preordering rn
+6/21/21, 12:31 PM - V: And you can play as herlock sholmes in that game
+6/21/21, 12:31 PM - V: You can't beat that
+6/21/21, 12:51 PM - Rishabh: Yes
+6/21/21, 12:51 PM - Rishabh: Nope you can’t
+6/21/21, 6:48 PM - V: https://youtube.com/playlist?list=PLFyvZSG1tDhf_X3BMyK1FKPD0GD8X-pCi
+6/21/21, 6:50 PM - V: http://www.mrventures.net/all-tutorials/a-gamedev-engineers-super-duper-study-sheet
+6/21/21, 6:55 PM - V: https://mobile.twitter.com/POPeART_
+6/22/21, 12:01 PM - V: https://www.google.com/amp/s/eliasdaler.wordpress.com/2013/10/11/lua_cpp_binder/amp/
+6/22/21, 12:04 PM - Rishabh: Nice!
+6/22/21, 4:15 PM - V: https://github.com/ga2arch/Math3D
+6/22/21, 4:17 PM - V: https://youtu.be/T2ZwqdwHRxg
+6/22/21, 6:07 PM - V: https://www.mooc-list.com/course/introduction-3d-animation-using-blender-futurelearn
+6/22/21, 6:18 PM - +91 83558 14130: Nice
+6/22/21, 8:55 PM - Mehul Srivastava: https://nft.wazirx.org/
+6/22/21, 8:55 PM - Astitva: Bhak
+6/22/21, 8:59 PM - Mehul Srivastava: 🤭
+6/22/21, 9:04 PM - V: 🔫🔫
+6/22/21, 9:29 PM - +91 83558 14130: yo weren't they being enquired for some fraudlent transactions and stuff by indian gov?
+6/22/21, 9:30 PM - Astitva: Yup also for drug dealing lmao
+6/22/21, 9:30 PM - +91 83558 14130: what?
+6/22/21, 9:34 PM - Astitva: https://m.economictimes.com/tech/tech-bytes/ncb-asks-wazirx-for-details-of-alleged-drug-dealer/articleshow/83638578.cms
+6/22/21, 9:55 PM - Rishabh: https://www.youtube.com/watch?v=vrZvsFnfA0k&list=PL4w6jm6S2lzs246oXi9FdyYgELegO5gkd&index=2
+6/22/21, 10:04 PM - Rishabh: https://www.youtube.com/watch?v=9q_YsxJpVIc&list=PL4w6jm6S2lzsI35xylUuVw_LfgqC8679W
+6/22/21, 10:23 PM - Rishabh: https://www.amd.com/en/products/ryzen-threadripper
+6/22/21, 10:25 PM - Mehul Srivastava: Yuppp 😎
+6/22/21, 11:12 PM - Rishabh: https://www.youtube.com/watch?v=whPWKecazgM
+6/22/21, 11:25 PM - Rishabh: https://www.youtube.com/watch?v=FlgLxSLsYWQ
+6/22/21, 11:42 PM - Rishabh: https://100r.co/site/home.html
+6/23/21, 12:13 AM - V: https://youtu.be/sdYFmnQGtbU
+6/23/21, 12:13 AM - V: @919082216009 what if 😏
+6/23/21, 9:59 PM - V: https://www.khronos.org/registry/vulkan/specs/1.2-extensions/man/html/VK_KHR_ray_tracing_pipeline.html
+6/24/21, 9:51 AM - Rishabh: https://iorama.studio/
+6/24/21, 2:04 PM - V: https://catalogue.usc.edu/preview_program.php?catoid=12&poid=12580&returnto=4078
+6/26/21, 10:59 AM - Rishabh: https://m.youtube.com/channel/UCGKjGGjdl-GzEcFPf1EQwqw
+6/26/21, 11:38 AM - V: Are nanite ❤️
+6/26/21, 11:38 AM - V: Lumen also
+6/26/21, 11:38 AM - V: But unreal engine on linux is broken beyond repair
+6/26/21, 1:00 PM - Rishabh: https://www.rokoko.com/products/smartsuit-pro?utm_source=facebook&utm_medium=cpc&utm_campaign=Asia_Prospecting_Conversions_Purchase_LAL_Customers&utm_content=Asia_Prospecting_Conversions_Purchase_LAL_Customers_sam_face_mocap_studio&fbclid=IwAR0XoP7Bm_KqHwjjRpvt55pjuwerohGV3ruLJ09NhLkq6p9cuOm5OwqFHWM
+6/26/21, 1:06 PM - V: Yes saw this
+6/26/21, 1:13 PM - V: https://www.readspeaker.ai/applications/gaming/
+6/28/21, 12:56 PM - V: https://youtu.be/2qSVSIBSK3w
+6/28/21, 12:59 PM - V: https://web.cs.wpi.edu/~matt/courses/cs563/talks/antialiasing/methods.html
+6/28/21, 1:57 PM - V: https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy9mZjc3YTI0L3BvZGNhc3QvcnNz?ep=14
+6/30/21, 9:10 PM - Rishabh: https://youtu.be/GK7ntA7a2vk
+7/1/21, 1:20 PM - +91 91652 57248: mann this talk was an amazing !!
+I remember watching it 2 yrs ago and it was just one of the talks that pretty dead on point!
+7/1/21, 1:21 PM - +91 91652 57248: 3yrs*
+7/1/21, 1:43 PM - +91 91652 57248: guys has anyone here tried setting up vulcan before??
+7/1/21, 1:43 PM - +91 91652 57248: It was pretty hectic some time ago but idk about the current status
+7/1/21, 2:04 PM - V: https://www.researchgate.net/publication/335966482_Optimization_of_screen-space_directional_occlusion_algorithms
+7/1/21, 2:11 PM - Rishabh: Yeah
+7/1/21, 2:11 PM - Rishabh: You into game-dev as well?
+7/1/21, 2:36 PM - +91 91652 57248: Yeah I actually worked on my own game engine in class 10th, it was a 2d engine built on opengl. I wanted to work on that more but JEE🥲😂
+7/1/21, 2:36 PM - Rishabh: Really cool!
+7/1/21, 2:37 PM - +91 91652 57248: Yea it was fun!
+7/1/21, 2:37 PM - +91 78689 12384: Damn, that is pretty cool. Is it public?
+7/1/21, 2:38 PM - +91 91652 57248: I didn't make it public Becoz I was actually implementing ECS in the engine, and for that I broke it down a lot, and then I got into 11th and JEE u know😂
+7/1/21, 2:39 PM - +91 91652 57248: I think the renderer and stuff will work with a few hacks, but it need a lot of work to get it back to a working state right now, so I've just let it be.
+7/1/21, 2:39 PM - +91 91652 57248: I'll build a new one if I get a chance again
+7/1/21, 2:40 PM - +91 78689 12384: Will be crazy looking at code from all the way back
+7/1/21, 2:41 PM - +91 91652 57248: I think cringe is the word we'll be using there😂😂
+7/1/21, 2:41 PM - +91 91652 57248: I can do the same things a lot better now so I'll just cringe 😂😂
+7/1/21, 2:42 PM - +91 91652 57248: If anyone of u is interested in engine tech do let me know in the dm,  I'd really like to start working on an engine on a big scale again!
+7/1/21, 2:55 PM - Rishabh: I know @919315996705 and I posted a ton of engine dev specific content when we started this group
+7/1/21, 3:01 PM - +91 91652 57248: Ohh. Well I joined the group pretty late so I must've missed that.
+7/1/21, 3:23 PM - V: Proprietary engine pain in the butt
+7/3/21, 12:08 AM - Rishabh: https://youtu.be/01YSK5gIEYQ
+7/5/21, 12:08 AM - Rishabh: @918355814130 https://school.gameaibook.org thoughts?
+7/5/21, 12:10 AM - +91 83558 14130: Niceee
+7/5/21, 12:11 AM - +91 83558 14130: Probably will register next year
+7/5/21, 12:11 AM - +91 83558 14130: this year NeuroMatch
+7/5/21, 12:12 AM - V: 🛐
+7/5/21, 12:22 AM - Rishabh: 👀👄👀
+7/5/21, 12:47 AM - Mehul Srivastava: 🛐
+7/5/21, 12:47 AM - Mehul Srivastava: god
+7/5/21, 12:51 AM - Rishabh: Ofc Neuro god
+7/5/21, 12:51 AM - Rishabh: You completed the prerequisites?
+7/5/21, 12:51 AM - Rishabh: @918355814130
+7/5/21, 12:51 AM - Mehul Srivastava: 😰
+7/5/21, 12:54 AM - Rishabh: 🙏🏿 no racism here
+7/5/21, 12:54 AM - Mehul Srivastava: 🖤🤍
+7/5/21, 12:54 AM - Mehul Srivastava: never
+7/5/21, 10:33 PM - V: https://savetitanfall.com/
+7/6/21, 12:39 AM - Rishabh: This is what we have come to!
+7/6/21, 1:13 AM - Rishabh: IMG-20210706-WA0000.jpg (file attached)
+7/6/21, 1:14 AM - Rishabh: @919315996705 ^^
+7/6/21, 1:15 AM - V: Finally bruh
+7/6/21, 1:15 AM - Rishabh: Yup also CC @918355814130
+7/6/21, 1:15 AM - Rishabh: Lol
+7/6/21, 1:15 AM - Rishabh: 24G VRAM is crazy!!!
+7/6/21, 1:16 AM - V: Ofc it is lol
+7/6/21, 1:16 AM - Rishabh: Can boot windows directly
+7/6/21, 1:16 AM - V: Minecraft 8k
+7/6/21, 1:16 AM - Rishabh: Easy
+7/6/21, 1:16 AM - Rishabh: 12K
+7/6/21, 1:16 AM - V: Nah
+7/6/21, 1:16 AM - Rishabh: YUP
+7/6/21, 1:16 AM - V: Minecraft rtx is something else
+7/6/21, 1:17 AM - Rishabh: WITH AMD 5600X
+7/6/21, 1:17 AM - Rishabh: LOL THIS HAS RT
+7/6/21, 1:17 AM - V: Try it it even struggles on 3090 with everything cranked up
+7/6/21, 1:18 AM - Rishabh: Coz of RAM bottleneck
+7/6/21, 1:18 AM - Rishabh: This won’t have that
+7/6/21, 1:18 AM - V: 110 percent tax advantages
+7/6/21, 1:19 AM - V: Minecraft wasn't supposed to have rt so they manually calculated every bounce
+7/6/21, 1:20 AM - V: Of god rays on every surface
+7/6/21, 1:23 AM - Rishabh: Yup
+7/6/21, 1:24 AM - Rishabh: 10 rays from one point
+7/6/21, 1:24 AM - Rishabh: I’ll run cyberpunk
+7/6/21, 1:24 AM - Rishabh: @918355814130 train GPT on this lol
+7/6/21, 1:24 AM - +91 83558 14130: Kitna tab kar raha hai kya hua
+7/6/21, 1:25 AM - +91 83558 14130: 🛐🛐🛐🛐🛐
+7/6/21, 1:25 AM - V: Cyberpunk with dlss 2.2
+7/6/21, 1:25 AM - Rishabh: I’ll not tab you sorry
+7/6/21, 1:25 AM - +91 83558 14130: Sone jaa raha hun bhai bahut ghatiya hai ye tome slot
+7/6/21, 1:25 AM - Rishabh: You are the GPU god what can I say…
+7/6/21, 1:25 AM - +91 83558 14130: *time
+7/6/21, 1:26 AM - Rishabh: Lol
+7/6/21, 1:26 AM - +91 83558 14130: but tolerable with good people
+7/6/21, 1:26 AM - Rishabh: Ok
+7/6/21, 1:29 AM - V: Explosion artist
+7/6/21, 1:31 AM - Rishabh: https://gendesignmc.engineering.nyu.edu
+7/6/21, 1:31 AM - Rishabh: Yes
+7/6/21, 1:31 AM - Rishabh: 3090
+7/6/21, 1:55 AM - V: Yes write an algorithm which deletes the game from mojang servers forever
+7/6/21, 1:56 AM - V: Explosion
+7/6/21, 8:21 AM - V: https://www.atarichain.com/
+7/6/21, 7:39 PM - V: https://youtu.be/FfbAyayKynY @919717945717 buy this or i shoot you
+7/6/21, 7:50 PM - Mehul Srivastava: Damnnn niceeeee
+7/6/21, 7:50 PM - Mehul Srivastava: Damn aa gaya
+7/6/21, 7:52 PM - Mehul Srivastava: I'll buy it if there is an issue in it
+7/6/21, 7:52 PM - Mehul Srivastava: As in if I can homebrew
+7/6/21, 8:03 PM - V: Every device has homebrews
+7/6/21, 8:03 PM - V: But why do you want to homebrew a new switch
+7/6/21, 8:03 PM - V: Typically it is end of lifecycle stuff
+7/6/21, 8:04 PM - V: Anyways i just want to say zelda ke baad jo karliyo karna hai
+7/6/21, 8:06 PM - Mehul Srivastava: Cos I don't wanna pay 5k for every game
+7/6/21, 8:06 PM - Mehul Srivastava: Duh
+7/6/21, 8:06 PM - V: Only zelda
+7/6/21, 8:06 PM - Mehul Srivastava: Switch lite doesn't
+7/6/21, 8:06 PM - Mehul Srivastava: 50k ki zelda machine nahi leni mujhe itna paisa nahi mere pass 😭
+7/6/21, 8:06 PM - V: Who buys switch light its a scam
+7/6/21, 8:06 PM - Mehul Srivastava: It's nice lol
+7/6/21, 8:07 PM - V: They basically downgraded the switch now it runs 720p games at 540p
+7/6/21, 8:07 PM - Mehul Srivastava: So?
+7/6/21, 8:07 PM - V: So whats the point
+7/6/21, 8:08 PM - V: Switch and switch light ka difference isn't too much
+7/6/21, 8:09 PM - V: And weren't you the one who always said Nintendo ki games are worth 5k :)
+7/6/21, 8:09 PM - Mehul Srivastava: Yes
+7/6/21, 8:10 PM - Mehul Srivastava: But I don't have money
+7/6/21, 8:10 PM - Mehul Srivastava: For me 5k rupees is worth 5k
+7/6/21, 8:10 PM - V: Nobody has bur somehow it appears
+7/6/21, 8:11 PM - V: You are pricing money ?
+7/6/21, 8:12 PM - Mehul Srivastava: Yes 😎
+7/6/21, 8:13 PM - Mehul Srivastava: Damn spawn kill
+7/6/21, 8:13 PM - V: You broke through the fourth wall of society 😎
+7/6/21, 8:15 PM - V: But since humanity hasn't reached that point yet so your are to apprehended on account of laundering and tax fraud
+7/8/21, 7:06 PM - Rishabh: https://www.kmjn.org/game-rankings/
+7/8/21, 7:28 PM - Rishabh: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+7/8/21, 10:20 PM - V: Big fan
+7/8/21, 11:02 PM - +91 78689 12384: https://www.youtube.com/channel/UCMV8p6Lb-bd6UZtTc_QD4zA
+7/20/21, 4:00 PM - V: https://github.com/GPUOpen-Effects/FidelityFX
+7/31/21, 4:52 PM - V: https://www.pathengine.com/
+8/6/21, 6:05 PM - V: https://github.com/WEREMSOFT/voxelspace-c99-opengl-linux
+8/7/21, 12:43 AM - V: https://www.unrealengine.com/en-US/developer-interviews/how-square-enix-impressively-optimized-final-fantasy-vii-remake-intergrade-for-next-gen
+8/7/21, 12:43 AM - V: Interview of legends
+8/7/21, 1:40 AM - Rishabh: yess
+8/10/21, 1:20 PM - V: https://play.google.com/store/apps/details?id=com.ilixa.glitch
+8/10/21, 7:57 PM - V: https://www.reddit.com/r/gameengdev?utm_medium=android_app&utm_source=share
+8/10/21, 7:58 PM - V: https://www.reddit.com/r/gameengdev/comments/o6h4r8/interesting_insights_into_playstation_1/?utm_medium=android_app&utm_source=share
+8/10/21, 7:58 PM - V: https://www.copetti.org/writings/consoles/playstation/
+8/10/21, 7:59 PM - V: https://www.reddit.com/r/gamedev/comments/lz8orz/lowlevel_optimizations_in_the_last_of_us_part_ii/?utm_medium=android_app&utm_source=share
+8/10/21, 8:00 PM - V: https://www.pardcode.com/pardengine
+8/10/21, 8:02 PM - V: https://mobile.twitter.com/kvitter/status/1202057108667215872
+8/10/21, 8:03 PM - V: https://youtube.com/channel/UCqNJ5JdhNakfPQBYwroizPQ
+8/10/21, 8:04 PM - V: Fun playlist
+8/10/21, 8:10 PM - V: https://www.sidefx.com/learn/collections/houdini-isnt-scary/
+8/10/21, 8:12 PM - V: https://discord.gg/kCtae8jQ
+8/10/21, 8:13 PM - V: https://disboard.org/server/799347267961356288
+8/10/21, 8:13 PM - V: You deleted this message
+8/10/21, 8:15 PM - V: http://www.cs.uakron.edu/~xiao/game/index.html
+8/10/21, 8:17 PM - V: https://www.raywenderlich.com/books/metal-by-tutorials/v2.0
+8/10/21, 8:19 PM - V: https://reddit.com/r/gamedev/w/resources?utm_source=share&utm_medium=android_app
+8/10/21, 8:22 PM - V: DOC-20210810-WA0008. (file attached)
+DOD-Cpp.pdf
+8/10/21, 8:44 PM - V: https://youtu.be/g1TsP60z2OQ
+8/10/21, 8:51 PM - Rishabh: Nice
+8/11/21, 9:37 PM - V: https://www.unrealengine.com/en-US/tech-blog/creating-the-illustrative-look-of-season-using-unreal-engine
+8/11/21, 9:40 PM - V: Interesting read for overcoming lack of 2d features in unreal
+8/12/21, 12:42 AM - V: https://youtu.be/rZuJ0masYjo
+8/12/21, 12:46 AM - Rishabh: Yeah seen really cool
+8/12/21, 12:46 AM - Rishabh: Check out the blenderCON talk as well.
+8/12/21, 12:47 AM - V: They have that ?
+8/12/21, 12:48 AM - V: Didn't their blog mentioned using custom shaders with unreal engine 4 lod system
+8/12/21, 12:51 AM - V: https://youtu.be/wSzOXHCRZ-0
+8/12/21, 12:52 AM - V: Guy literally left jpl to work at insomniac
+8/12/21, 8:27 PM - V: Stalker 2 running on unreal engine 5
+8/12/21, 9:52 PM - V: https://ue.unrealengine.com/ENG-1999-WBN-08-2021-The-Next-Step-in-Virtual-Production-Registration-Landing-Page.html
+8/13/21, 4:13 AM - Rishabh: Damn
+8/13/21, 10:48 AM - V: https://www.unrealengine.com/en-US/developer-interviews/how-a-team-of-three-created-a-narrative-masterpiece-in-the-forgotten-city
+8/13/21, 11:17 PM - V: https://www.scratchapixel.com/lessons/mathematics-physics-for-computer-graphics/geometry
+8/14/21, 6:05 AM - +91 78689 12384: Their Monte Carlo lessons are really gold
+8/14/21, 10:23 AM - V: Their every lesson is very practical
+8/14/21, 1:55 PM - V: Blender v3 will support pixar usd
+8/14/21, 2:15 PM - Rishabh: Yeah
+8/14/21, 10:03 PM - V: comp.emulators.game-consoles
+8/14/21, 10:05 PM - V: http://forums.emulator-zone.com/archive/index.php/t-603.html <<<<( How
+2 Make An Emulator )
+8/14/21, 10:07 PM - V: https://cs184.eecs.berkeley.edu/sp21/readings
+8/14/21, 10:24 PM - Rishabh: Awesome!!!
+8/15/21, 11:05 AM - V: https://github.com/JohnSundell/ImagineEngine
+8/15/21, 11:34 AM - +91 83558 14130: nice
+8/15/21, 8:05 PM - V: https://www.equimdesigns.com/dam
+8/15/21, 11:30 PM - V: https://youtu.be/iBVI89dvO-c
+8/16/21, 10:05 AM - V: https://www.solarus-games.org/
+8/16/21, 8:00 PM - V: https://vitasdk.org
+8/17/21, 6:58 PM - V: https://research.adobe.com/news/adobe-research-at-siggraph-2021/
+8/17/21, 7:01 PM - V: https://www.sony.com/en/SonyInfo/design/interviews-lectures/
+8/17/21, 7:06 PM - V: https://www.sony.com/en/SonyInfo/design/philosophy/akagawa/
+8/17/21, 7:49 PM - Rishabh: Oh Ill check it out in some time looks interesting I gotta sign into my sigGraph account lol
+8/17/21, 8:10 PM - V: https://www.unrealengine.com/en-US/developer-interviews/how-thor-movies-a-love-of-co-op-and-survival-inspired-tribes-of-midgard
+8/18/21, 8:41 AM - V: https://youtu.be/0_Byw9UMn9g
+8/18/21, 8:44 AM - Rishabh: This is great!!!
+8/18/21, 8:45 AM - Rishabh: Have you checked out unity barracuda?
+8/18/21, 8:52 AM - V: I don't use unity
+8/18/21, 8:52 AM - V: C# is a hassle
+8/18/21, 8:53 AM - V: Tho i am glad they are moving away from oop software architecture and moving on to industry standard dod
+8/18/21, 8:55 AM - V: In a limited resource environment  dod improves performance over ood simply due to its flexibility
+8/18/21, 8:56 AM - V: https://advances.realtimerendering.com/s2012/index.html
+8/18/21, 8:56 AM - Rishabh: Checkout
+8/18/21, 8:56 AM - Rishabh: Dope
+8/18/21, 9:40 AM - V: https://www.immersivelimit.com/blog/deep-learning-with-game-engines-a-self-driven-course
+8/18/21, 9:49 AM - Rishabh: Education is free
+8/19/21, 11:20 AM - V: https://youtu.be/Gfb7mNAoV2c
+8/20/21, 10:24 AM - V: https://youtu.be/nOMIwsupy9k
+8/20/21, 10:24 AM - V: Indie game of the year
+8/20/21, 10:56 AM - Rishabh: Nice
+8/20/21, 10:57 AM - V: Look at the dragon 🥵🥵🥵
+8/20/21, 12:33 PM - V: http://rpg.jp
+8/20/21, 12:53 PM - V: https://youtu.be/fQRlgYT0xfA
+8/23/21, 3:04 AM - +91 78689 12384 changed to +1 (213) 425-9589
+8/25/21, 10:25 PM - V: https://youtu.be/K-I8cfwO2nI
+8/25/21, 10:27 PM - Rishabh: Fuck nice
+8/25/21, 10:27 PM - Rishabh: Send a reminder? in ~9h lol
+8/25/21, 10:28 PM - V: Jason Connell from suckerpunch coming bro 🔥🔥
+8/25/21, 10:28 PM - Rishabh: fuckkk
+8/25/21, 10:28 PM - Rishabh: Networking.
+8/25/21, 10:28 PM - Rishabh: DO they have a platform to register?
+8/25/21, 10:34 PM - V: https://www.unrealengine.com/en-US/spotlights/netflix-smash-hit-space-sweepers-harnesses-unreal-engine-for-real-time-previs
+8/25/21, 10:34 PM - V: Its already day 2 bruh
+8/25/21, 10:35 PM - V: But look at this lineup of speakers
+8/25/21, 10:35 PM - V: This is next gen conference for interactive entertainment
+8/25/21, 10:36 PM - V: https://cedil.cesa.or.jp/
+8/25/21, 10:36 PM - V: Use this @919082216009
+8/26/21, 5:27 PM - V: https://youtu.be/0p6G5Q2t_mM
+8/26/21, 5:29 PM - V: https://youtu.be/9pVO1siJt50
+8/26/21, 5:30 PM - V: https://youtu.be/3jU_YhZ1NQA
+8/26/21, 5:31 PM - V: Intel following amd now
+8/26/21, 6:20 PM - V: https://github.com/id-Software
+8/26/21, 7:57 PM - Rishabh: Nice quake 1/inverse root
+8/26/21, 7:58 PM - V: subtracted from the fucking error lol
+8/26/21, 7:59 PM - V: the team literally said no u to definition of algo being an abstraction of your logic
+8/26/21, 8:00 PM - Rishabh: Yeah
+8/26/21, 8:00 PM - Rishabh: Id defined gaming,
+8/26/21, 8:01 PM - V: id's engine tech is literally the most efficient
+8/26/21, 8:01 PM - Rishabh: With the licensed to Valve then they pushed forward.
+8/26/21, 8:01 PM - Rishabh: Was a minimal one but for its time yeah.
+8/26/21, 8:01 PM - Rishabh: NOthing much has changed.
+8/26/21, 8:02 PM - Rishabh: they made the first truly 3D engine.
+8/26/21, 8:02 PM - V: I don't even know what Todd Howard smokes when they decide to use fucking broken creation for every new ip
+8/26/21, 8:02 PM - V: no I am counting latest engine id tech 7
+8/26/21, 8:03 PM - V: the one which doom eternal uses
+8/26/21, 8:04 PM - V: no bungie made it
+8/26/21, 8:05 PM - V: they made a doom clone called "pathway into darkness" or something
+8/26/21, 8:06 PM - V: they obviously took inspiration from the "fps" of the time
+8/26/21, 8:07 PM - Rishabh: Yeah that was not 3D
+8/26/21, 8:07 PM - Rishabh: Thats what I meant "truly"
+8/26/21, 8:07 PM - V: that was lol
+8/26/21, 8:08 PM - Rishabh: Nope 2D texture + 3D navigation.
+8/26/21, 8:08 PM - Rishabh: NOt like HalfLife
+8/26/21, 8:09 PM - V: confession moment : I never have played any valve games except cs go
+8/26/21, 8:09 PM - V: they just do whatever they want atm
+8/26/21, 8:10 PM - Rishabh: Same
+8/26/21, 8:10 PM - Rishabh: HalfLife I played but I found it horrible.
+8/26/21, 8:10 PM - Rishabh: Deleted I played CS Source.
+8/26/21, 8:11 PM - V: apart from doing niche stuff which most people don't care about
+8/26/21, 8:11 PM - V: you want to try half life again try black mesa
+8/26/21, 8:12 PM - V: it is a 2008 game which is a remake of half-life but suffered delays and released in 2019
+8/26/21, 8:12 PM - V: valve actually allowed that also
+8/26/21, 8:13 PM - Rishabh: Yes I know.
+8/26/21, 8:13 PM - Rishabh: I saw the documentary.
+8/26/21, 8:13 PM - Rishabh: I wanna play Alyx
+8/26/21, 8:14 PM - Rishabh: VR there are maybe 10 titles I wanna experience.
+8/26/21, 8:14 PM - V: one of the best vr game except doom 3
+8/26/21, 8:14 PM - Rishabh: RE 7
+8/26/21, 8:15 PM - V: na classic way is better
+8/26/21, 8:15 PM - Rishabh: VR
+8/26/21, 8:16 PM - V: lol for 10 games only vr is expensive af
+8/26/21, 8:16 PM - Rishabh: I kindof want heavy rain in VR....the atmosphere is too good, eerie
+8/26/21, 8:16 PM - V: not to mention they don't develop for multiple vr
+8/26/21, 8:16 PM - Rishabh: If you have a PC then it's managable.
+8/26/21, 8:16 PM - Rishabh: There is support for VR
+8/26/21, 8:16 PM - Rishabh: Biohazard
+8/26/21, 8:17 PM - V: what can be found on oculus can't be found on steam vr and vive
+8/26/21, 8:17 PM - V: just look at the company behind it capcom
+8/26/21, 8:17 PM - Rishabh: y
+8/26/21, 8:17 PM - Rishabh: OS there's PC Vr titles any platform you can play..
+8/26/21, 8:18 PM - Rishabh: w/ RTX ray tracing lol
+8/26/21, 8:18 PM - V: stupid idea tbh vr is a headache for 10 games
+8/26/21, 8:18 PM - V: for me at least
+8/29/21, 3:17 PM - V: https://parametric-architecture.com/computational-design-next-6-0/
+8/29/21, 3:32 PM - Rishabh: You can pay the fee in ETH or any other crypto. For more information please contact us at next@parametric-architecture.com
+8/29/21, 3:34 PM - V: https://www.illusorr.com/
+8/29/21, 4:37 PM - Rishabh: Cool
+9/1/21, 5:28 PM - V: DOC-20210901-WA0009. (file attached)
+1611.04201.pdf
+9/2/21, 4:47 PM - V: http://www.connellybarnes.com/work/class/2016/deep_learning_graphics/
+9/3/21, 10:29 AM - V: https://www.unrealengine.com/en-US/spotlights/holograms-and-flames-rtfkt-reinvents-sneakers-for-the-virtual-world
+9/3/21, 6:16 PM - Rishabh: @919315996705 Lets use this channel for DAM
+9/3/21, 6:16 PM - Rishabh: Also someplace to take notes.
+9/3/21, 6:16 PM - V: Fine by me
+9/4/21, 10:29 AM - Rishabh: Joined?
+9/4/21, 10:29 AM - Rishabh: @919315996705
+9/4/21, 10:33 AM - Rishabh: https://www.dropbox.com/scl/fi/cdzgy9bm25kh3xcgedicd/DAM-DAY-I.paper?dl=0&rlkey=sf436m934brzag4jy24f6z6sq
+9/4/21, 10:33 AM - Rishabh: @919315996705
+9/4/21, 10:39 AM - Mehul Srivastava: Damn @919315996705 missing
+9/4/21, 10:40 AM - Rishabh: Yup F
+9/7/21, 10:34 PM - V: https://thechoiceisyours.whatisthematrix.com/
+9/8/21, 10:58 AM - V: https://youtu.be/KrkQrYZR4l4
+9/13/21, 6:09 PM - V: https://creativecloud.adobe.com/discover/article/gris-the-art-of-the-game
+9/16/21, 5:53 PM - Rishabh: https://www.xamk.fi/en/open-amk-courses/introduction-to-video-games-creation/
+9/16/21, 5:53 PM - Rishabh: @919315996705
+9/16/21, 6:34 PM - V: https://youtu.be/WdGg5QYybJU
+9/16/21, 6:35 PM - V: @919082216009
+9/16/21, 7:26 PM - Rishabh: Damn
+9/16/21, 7:28 PM - Rishabh: @61481601669
+9/16/21, 7:30 PM - V: They forked unreal engine 4 and replaced the stock engine with their own vfx and particle engine
+9/16/21, 7:31 PM - V: Thats the only reason why data has been kept in an oop like way
+9/16/21, 7:34 PM - V: This topic in of itself is worth of a gdc talk
+9/16/21, 7:36 PM - Rishabh: There will be.
+9/16/21, 7:36 PM - Rishabh: Or has been and not released yet.
+9/16/21, 7:37 PM - V: are you talking  about housemarque  ?
+9/16/21, 7:38 PM - Rishabh: Yes
+9/16/21, 7:38 PM - V: because data oriented programming is now how engine teams do things now
+9/16/21, 7:38 PM - Rishabh: GDC happened and we were cheap enough not to go remember?
+9/16/21, 7:38 PM - Rishabh: DOTS in unity
+9/16/21, 7:39 PM - V: Unity is a patchwork solution
+9/16/21, 7:40 PM - V: I am talking about the new arkane engine that type of stuff would be doo
+9/16/21, 7:40 PM - V: The gains are almost unbelievable
+9/16/21, 7:40 PM - V: And resources are too less on this paradigm
+9/16/21, 7:43 PM - V: There was this talk about a team who ditched traditional web engine and made it from the ground up with dop they achived double the performance in same rendering budget
+9/16/21, 11:45 PM - V: https://github.com/adrianensis/DruidEngine
+9/17/21, 12:08 AM - Rishabh: True idea is the same.
+9/18/21, 9:28 PM - V: https://www.retroreversing.com
+9/19/21, 6:07 PM - V: https://www.google.com/amp/s/www.gamesradar.com/amp/project-eve-ceo-bought-260-ps5-consoles-so-his-team-could-play-their-game/
+Best ceo best work incentive ever
+9/23/21, 3:16 PM - Rishabh: http://noemotionhdrs.net
+9/23/21, 3:20 PM - Rishabh: https://unity.com/demos/windup
+9/23/21, 3:20 PM - Rishabh: @919315996705
+9/25/21, 10:40 AM - Rishabh: @919315996705 Lumberyard is based on CryEngine!
+9/29/21, 10:01 AM - Rishabh: https://youtu.be/8eIavj62Mu8
+9/29/21, 10:07 PM - V: https://youtube.com/playlist?list=PLmIqTlJ6KsE2yXzeq02hqCDpOdtj6n6A9
+9/29/21, 10:07 PM - V: @919082216009 op stuff
+9/29/21, 10:17 PM - Rishabh: Yup
+10/3/21, 11:53 AM - V: http://seaman.ai
+10/7/21, 12:25 PM - Rishabh: https://bkaradzic.github.io/bgfx/examples.html#fsr
+10/7/21, 9:13 PM - Rishabh: https://youtu.be/4q6UGCyHZCI
+11/1/21, 1:12 PM - Rishabh: @919315996705 can you send me an export of this group
+11/16/21, 10:53 PM - V: https://thegameawards.com/
+Ok this needs to be done
+11/26/21, 11:11 AM - +91 82378 45794 joined using this group's invite link
+11/26/21, 11:28 AM - +91 98776 75926 joined using this group's invite link
+11/26/21, 12:06 PM - +91 84490 15296 joined using this group's invite link
+11/26/21, 4:49 PM - Rishabh: https://mountaintop.gg
+11/26/21, 4:56 PM - Rishabh: https://www.ea.com/seed
+11/26/21, 4:57 PM - Rishabh: https://kesen.realtimerendering.com/sig2020.html
+11/26/21, 4:57 PM - Rishabh: https://kesen.realtimerendering.com/sig2021.html
+11/27/21, 8:57 AM - Rishabh: https://www.awwwards.com/sites/canvas-agency?utm_source=twitter&utm_medium=social&utm_campaign=SOTD_promo&utm_content=canvas-agency
+11/27/21, 10:21 AM - Rishabh: https://www.degruyter.com/document/doi/10.1515/9783110498967/pdf
+11/28/21, 12:19 PM - Rishabh: https://www.ea.com/seed#news
+11/28/21, 1:42 PM - Rishabh: https://www.a11yproject.com/resources/
+11/28/21, 4:50 PM - Rishabh: https://www.kadenze.com/programs/generative-art-and-computational-creativity
+11/28/21, 4:50 PM - Rishabh: @919315996705 ^^ Black friday.
+11/28/21, 10:21 PM - Rishabh: https://twitter.com/jmasterjiggles/status/1464540347824967683?s=20
+12/3/21, 7:22 PM - Rishabh: https://www.game.edu.mt/
+12/5/21, 12:58 PM - Rishabh: https://www.ea.com/seed/news/seed-siggraph-2021
+12/5/21, 12:58 PM - V: https://montreal.ubisoft.com/en/deep-reinforcement-learning-for-navigation-in-aaa-video-games/
+12/5/21, 1:00 PM - Rishabh: http://www.gameaipro.com
+12/14/21, 12:54 PM - V: https://www.crytek.com/career/offers/overview/frankfurt-germany/programming-engineering/junior-tools-engineer-for-sandbox
+12/14/21, 2:05 PM - V: https://80.lv/articles/demon-s-souls-how-to-make-a-great-remake/
+12/14/21, 2:38 PM - Rishabh: Yah
